@@ -1,0 +1,12 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Service",
+  "name": "Höhenmeter-Service in St. Jakob",
+  "description": "Wie viele Höhenmeter waren Sie unterwegs?",
+  "offers":{
+    "@type":"Offer",
+    "name":"Skiline. Das Höhenmeter-Diagramm Ihres Skitages!",
+    "description":"Gegen Eingabe Ihrer Skipass-Nummer erhalten Sie  binnen weniger Sekunden Ihre ganz persönliche „Skiline“.  Auf einen Blick finden Sie alle von Ihnen benutzten Liftanlagen und die dabei bewältigten Höhenmeter und  Abfahrtskilometer.",
+    "url": "http://www.skiline.cc/resort/stjakob"
+  }
+}

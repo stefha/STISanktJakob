@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Map",
+  "name":"Interaktives Pisten-Panorama",
+  "url":"http://winter.intermaps.com/st_jakob",
+"potentialAction":{
+  "@type":"SearchAction",
+  "query":"input-required"}
+}

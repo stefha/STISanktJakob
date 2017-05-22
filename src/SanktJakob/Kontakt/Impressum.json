@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+    "@type":"Organisation",
+    "name":"Informationsbüro Hochzillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Kaltenbach",
+      "postalCode": "A-6272",
+      "addressCountry": "Aurtria"
+    },
+    "email":"info@hochzillertal.com",
+    "isRelatedTo":{
+      "@type": "BankAccount",
+      "name":"Sparkasse Schwaz (20510)",
+      "additionalProperty":[
+        {
+          "@type":"PropertyValue",
+          "propertyID":"IBAN",
+          "value":"AT34 2051 0006 0060 0605"
+        },{
+          "@type":"PropertyValue",
+          "propertyID":"BIC",
+          "value":"SPSCAT22"
+        }
+      ]
+    },
+    "identifier":[{
+      "@type":"PropertyValue",
+      "propertyID":"UID",
+      "value":"ATU 33236101"
+    },{
+      "@type":"PropertyValue",
+      "propertyID":"DVR",
+      "value":"0696234"
+    },{
+      "@type":"PropertyValue",
+      "propertyID":"Firmenbuch",
+      "value":"FN 45205 d LG IBK"
+    }
+    ],
+  "areaServed":[
+    {
+      "@type":"Place",
+      "name":"Kaltenbach"
+    },{
+      "@type":"AdministrativeArea",
+      "name":"Tourismus- und Freizeitwirtschaft"
+    }
+  ],
+  "member":"Wirtschaftskammer Tirol",
+  "publisher":{
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  }
+}

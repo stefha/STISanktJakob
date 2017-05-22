@@ -1,0 +1,9 @@
+[{
+  "@context": "http://schema.org",
+  "@type":"CreativeWork",
+  "name":"Pisten Gütesiegel"
+},{
+  "@type":"CreativeWork",
+  "name":"Skiresort.de GeheimTipp",
+        "description":"Führendes Skigebiet bis 20km Pisten"
+}]

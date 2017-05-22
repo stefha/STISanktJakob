@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "itemListElement": {
+    " @type": "ListItem",
+    "item": {
+      "@type": "ImageObject",
+      "name": "Weissspitz",
+      "contentUrl": "http://webcamsstjakob.schultz.at/webcam/weissspitz/"
+    },
+    "nextItem": {
+      " @type": "ListItem",
+      "item": {
+        "@type": "ImageObject",
+        "name": "Mooseralm",
+        "contentUrl": "http://webcamsstjakob.schultz.at/webcam/mooseralm/"
+      }
+    }
+  }
+}
+

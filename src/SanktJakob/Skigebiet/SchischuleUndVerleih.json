@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Passlers Sportsworld",
+    "email":"passler@sport2000.at",
+    "telephone":"+43 4873 5203",
+    "faxNumber":"05283/2822-8",
+    "url":"http://www.sport-passler.at/",
+    "image":"http://www.stjakob-ski.at/wp-content/passler.gif",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"9963",
+      "addressLocality":"Unterrotte"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SCHNEESPORTSCHULE",
+    "url":"http://www.schneesportschule-stjakob.at/",
+    "email":"info@schneesportschule-stjakob.at",
+    "telephone":["+43 (0) 4873 / 200 31","+43 (0) 676 / 88 780 303"],
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"9963",
+      "addressLocality":"Defereggental – St. Jakob KG"
+    },
+    "employee":{
+      "@type":"Person",
+      "firstName":"Manfred",
+      "lastName":"Grossgasteigner"
+    }
+  }
+]
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Event",
+  "name": "Powdern im Geheim-Tipp Osttirol",
+  "organizer":{
+    "@type":"Organization",
+    "name":"Informationsbüro Hochzillertal",
+    "telephone":"+43 5283 2800",
+    "email":"info@hochzillertal.com"
+  },
+  "description": "3 Übernachtungen in der jeweiligen Kategorie, 3-Tages-Superskipass,Mittagslunch am Berg (in einer Hütte nach Wahl) – 1 Gang mit typisch Tiroler Spezialitäten, Möglichkeiten zum Testen der neuesten Skimodelle (pro Tag jeweils 2 Tests á 2 Stunden)",
+  "offers":[
+    {
+      "@type":"Offer",
+      "description":"pro Person im DZ in einer Privatpension mit Frühstück",
+      "priceSpecification":{
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":"235.00",
+        "priceCurrency":"EUR"
+      }
+    },
+    {
+      "@type":"Offer",
+      "description":"pro Person im Hotel*** mit Halbpension",
+      "priceSpecification":{
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":"305.00",
+        "priceCurrency":"EUR"
+      }
+    },
+    {
+      "@type":"Offer",
+      "description":"pro Person im Hotel**** mit Halbpension",
+      "priceSpecification":{
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":"545.00",
+        "priceCurrency":"EUR"
+      }
+    }
+  ]
+}
+
+
+

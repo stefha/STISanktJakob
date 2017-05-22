@@ -1,0 +1,102 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "Event",
+  "name": "Sommertarife",
+  "startDate": "25.06.2017",
+  "endDate": "10.09.2017",
+  "image": "http://www.stjakob-ski.at/wp-content/OsttirolCard11-327x500.jpg",
+  "description": "Betriebszeiten: 25.06. – 10.09.2017, Sonntag bis Freitag von 9:00-11:45 Uhr und 13:00-16:30 Uhr. Bei Schlechtwetter geschlossen! Gültig in: Großglockner Resort Kals/Matrei, Bergbahnen Hochpustertal/Sillian, Bergbahnen St. Jakob im Defereggental. Erwachsene ab 19 Jahre (ab 1998). Kinder 6 – 18 Jahre (1999 – 2011) .Kinder – Frei in Begleitung der Eltern: 0 – 5 Jahre (2012 – 2011). Alle Preise sind in € und enthalten die gesetzliche Mehrwertsteuer. Termin- und Tarifänderungen vor- behalten! Druckfehler können nie ausgeschlossen werden! Inhaltliche Änderungen jederzeit möglich.",
+  "offers": [{
+    "@type":"Offer",
+    "name":"Wanderkarte 1 Sektion",
+    "description":"Berg- und Talfahrt - Erwachsene - Normaltarif",
+    "price":"17,50",
+    "priceCurrency":"EUR"
+  },
+    {
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Bergfahrt - Erwachsene - Normaltarif",
+      "price":"14,50",
+      "priceCurrency":"EUR"
+    },{
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Talfahrt - Erwachsene - Normaltarif",
+      "price":"12,00",
+      "priceCurrency":"EUR"
+    },
+
+    {
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Berg- und Talfahrt - Erwachsene - Gästekarte",
+      "price":"16,50",
+      "priceCurrency":"EUR"
+    },
+    {
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Bergfahrt - Erwachsene - Gästekarte",
+      "price":"14,00",
+      "priceCurrency":"EUR"
+    },{
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Talfahrt - Erwachsene - Gästekarte",
+      "price":"11,00",
+      "priceCurrency":"EUR"
+    },
+
+    {
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Berg- und Talfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price":"9,00",
+      "priceCurrency":"EUR"
+    },
+    {
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Bergfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price":"6,50",
+      "priceCurrency":"EUR"
+    },{
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Talfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price":"5,50",
+      "priceCurrency":"EUR"
+    },
+
+    {
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Berg- und Talfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price":"8,00",
+      "priceCurrency":"EUR"
+    },
+    {
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Bergfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price":"6,00",
+      "priceCurrency":"EUR"
+    },{
+      "@type":"Offer",
+      "name":"Wanderkarte 1 Sektion",
+      "description":"Talfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price":"5,00",
+      "priceCurrency":"EUR"
+    }
+
+
+---------- Do 1 1/2 Sektionen etc...
+
+
+
+
+
+
+  ]
+}

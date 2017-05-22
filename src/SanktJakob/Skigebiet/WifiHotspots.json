@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Offer",
+  "name": "Wifi-Hotspots",
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Mooseralm"},
+    {
+      "@type": "Place",
+      "name": "Brunnalmstüberl"},
+    {
+      "@type": "Place",
+      "name": "Feistritzstüberl"},
+    {
+      "@type": "Place",
+      "name": "Erlebnislokal Fraggele"},
+    {
+      "@type": "Place",
+      "name": "Oberweißenhittl"}
+
+  ]
+}
