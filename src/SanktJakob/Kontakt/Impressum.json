@@ -1,56 +1,22 @@
 {
-  "@context": "http://schema.org",
-    "@type":"Organisation",
-    "name":"Informationsbüro Hochzillertal",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Kaltenbach",
-      "postalCode": "A-6272",
-      "addressCountry": "Aurtria"
-    },
-    "email":"info@hochzillertal.com",
-    "isRelatedTo":{
-      "@type": "BankAccount",
-      "name":"Sparkasse Schwaz (20510)",
-      "additionalProperty":[
-        {
-          "@type":"PropertyValue",
-          "propertyID":"IBAN",
-          "value":"AT34 2051 0006 0060 0605"
-        },{
-          "@type":"PropertyValue",
-          "propertyID":"BIC",
-          "value":"SPSCAT22"
-        }
-      ]
-    },
-    "identifier":[{
-      "@type":"PropertyValue",
-      "propertyID":"UID",
-      "value":"ATU 33236101"
-    },{
-      "@type":"PropertyValue",
-      "propertyID":"DVR",
-      "value":"0696234"
-    },{
-      "@type":"PropertyValue",
-      "propertyID":"Firmenbuch",
-      "value":"FN 45205 d LG IBK"
-    }
-    ],
-  "areaServed":[
-    {
-      "@type":"Place",
-      "name":"Kaltenbach"
-    },{
-      "@type":"AdministrativeArea",
-      "name":"Tourismus- und Freizeitwirtschaft"
-    }
-  ],
-  "member":"Wirtschaftskammer Tirol",
-  "publisher":{
-    "@type":"SkiResort",
-    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
-    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  "@context": "http://www.schema.org",
+  "@type": "SkiResort",
+  "name": "Bergbahnen St. Jakob im Defereggental",
+  "url": "http://www.stjakob-ski.at/anreise-kontakt/",
+  "logo": "http://www.stjakob-ski.at/wp-content/logo_st.jakob_ok.gif",
+  "telephone": " +43 (0)4873 5274",
+  "faxNumber": "+43 (0)4873 5274-22",
+  "email": " info@stjakob-ski.at",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brunnalmtalstation",
+    "addressLocality": "St. Jakob im Defereggental",
+    "postalCode": "A-9963",
+    "addressCountry": "Austria"
+  },
+  "additionalProperty":{
+    "@type":"additionalPropertyValue",
+    "name":"Haftungsausschuss",
+    "value":"1. Inhalt des Onlineangebotes: Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt. Alle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.    Teilweise werden die Inhalte der Internetseite der Osttirol Werbung aus dynamischen Tiscover Webseiten von Tourismusverbänden und Unterkünften entnommen. Die Osttirol Werbung übernimmt keinerlei Haftung für diese Inhalte, die durch Dritte eingegeben werden. Betrifft speziell auch sämtliche Preise, Öffnungszeiten und Zimmerkontingente."
   }
 }

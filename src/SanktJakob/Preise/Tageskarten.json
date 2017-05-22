@@ -1,0 +1,158 @@
+[{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T09:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Erwachsene/Senioren bis Jahrgang 1998",
+  "price":46.50,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T09:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Kinder / Jugendliche Jahrgang 1999-2011",
+  "price":24.00,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T10:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Erwachsene/Senioren bis Jahrgang 1998",
+  "price":41.00,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T10:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Kinder / Jugendliche Jahrgang 1999-2011",
+  "price":20.50,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},
+  {
+    "@context": "http://www.schema.org",
+    "@type": "Offer",
+    "name": "Tageskarten 2017/18",
+    "validFrom": "2017-12-08T11:00:00",
+    "availabilityStarts":"2017-12-08T09:00:00",
+    "availabilityEnds":"2018-04-08T16:00:00",
+    "description":"Erwachsene/Senioren bis Jahrgang 1998",
+    "price":38.00,
+    "itemOffered":{
+      "@type":"Product,Ticket",
+      "name":"Tageskarte"
+    }
+  },{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T09:00:00",
+  "availabilityStarts":"2017-12-08T11:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Kinder / Jugendliche Jahrgang 1999-2011",
+  "price":19.00,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T12:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Erwachsene/Senioren bis Jahrgang 1998",
+  "price":38.00,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T12:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Kinder / Jugendliche Jahrgang 1999-2011",
+  "price":19.00,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T13:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Erwachsene/Senioren bis Jahrgang 1998",
+  "price":31.00,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T13:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Kinder / Jugendliche Jahrgang 1999-2011",
+  "price":15.50,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T14:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Erwachsene/Senioren bis Jahrgang 1998",
+  "price":23.50,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+},{
+  "@context": "http://www.schema.org",
+  "@type": "Offer",
+  "name": "Tageskarten 2017/18",
+  "validFrom": "2017-12-08T14:00:00",
+  "availabilityStarts":"2017-12-08T09:00:00",
+  "availabilityEnds":"2018-04-08T16:00:00",
+  "description":"Kinder / Jugendliche Jahrgang 1999-2011",
+  "price":11.50,
+  "itemOffered":{
+    "@type":"Product,Ticket",
+    "name":"Tageskarte"
+  }
+}]
