@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://www.ankogel-ski.at",
+  "about": {
+    "@type":"SkiResort",
+    "name":"Hochgebirgsbahnen Ankogel",
+    "url":"http://www.ankogel-ski.at/anreise-kontakt/impressum"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Offer",
+  "name":"Ski Opening in der Sportresidenz",
+  "itemOffered":[
+    {
+      "@type":"Service",
+      "name":"3 ÜN inkl. Gourmet Halbpension"
+    },
+    {
+      "@type":"Service",
+      "name":"3 Tages Skipass (Zillertal Superskipass) pro Person"
+    },
+    {
+      "@type":"Service",
+      "name":"1 Schulter-, Nacken- & Kopfmassage pro Person"
+    }
+  ],
+  "priceSpecification":{
+    "@type":"UnitPriceSpecification",
+    "unitCode":"IE",
+    "price":"499.00",
+    "priceCurrency":"EUR",
+    "validThrough":"2016-12-19"
+  }
+}

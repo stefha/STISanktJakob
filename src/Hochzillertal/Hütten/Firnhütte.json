@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Restaurant",
+  "name": "Firnhütte",
+  "description": "Die neue Firnhütte befindet sich direkt an der Station des 6er Sessellifts Neuhüttenbahn.",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/IMG_3794.jpg",
+  "url": "www.firnhuette.at"
+}

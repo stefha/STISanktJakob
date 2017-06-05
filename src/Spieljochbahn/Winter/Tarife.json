@@ -1,0 +1,2849 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Organization",
+  "name":"Spieljochbahn",
+  "contactPoint":{
+    "email":"info@spieljochbahn.at",
+    "telephone":"+43 5288 62991",
+    "contactType":"customer support"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Tageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "52.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "47.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "38.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "34.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "26.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "51.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "46.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "37.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "33.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "25.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type":"UnitPriceSpecification",
+            "name": "ohne Gästekarte",
+            "unitCode":"IE",
+            "price":"77.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"1.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode":"IE",
+            "price":"76.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"1.5"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Einzelfahrten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "20.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "45.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "84.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"6"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "21.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "47.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "87.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"6"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Zillertal Superskipass",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-15",
+            "validFrom":"2017-12-02"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          },
+          "areaServed":[
+            {
+              "@type":"Place",
+              "name":"Hochzillertal"
+            },
+            {
+              "@type":"Place",
+              "name":"Hochfügen"
+            }
+          ]
+        },
+        "priceSpecification":[
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"102.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"122.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"143.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"164.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"179.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"214.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"249.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"282.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"7"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"313.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"8"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"343.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"9"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"374.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"10"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"403.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"11"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"431.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"12"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"459.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"13"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"487.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"14"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"512.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"15"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"536.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"16"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"559.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"17"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"582.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"18"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"602.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"19"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"617.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"20"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"632.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"21"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"198.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"4 in 6 Tagen",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"232.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"5 in 7 Tagen",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"259.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"6 in 7 Tagen",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"403.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"10 in 14 Tagen",
+              "value":"10"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Zillertal Superskipass",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08",
+            "validFrom":"2017-12-22"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          },
+          "areaServed": {
+            "@type":"Place",
+            "name":"Spieljoch"
+          }
+        },
+        "priceSpecification":[
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"102.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"122.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"143.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"164.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"179.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"214.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"249.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"282.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"7"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"313.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"8"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"343.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"9"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"374.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"10"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"403.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"11"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"431.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"12"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"459.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"13"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"487.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"14"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"512.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"15"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"536.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"16"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"559.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"17"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"582.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"18"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"602.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"19"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"617.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"20"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"632.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"21"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"198.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"4 in 6 Tagen",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"232.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"5 in 7 Tagen",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"259.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"6 in 7 Tagen",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"403.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"10 in 14 Tagen",
+              "value":"10"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Tageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "42.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "37.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "30.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "27.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"62.00",
+          "priceCurrency":"EUR",
+          "eligibleQuantity":{
+            "@type":"QuantitativeValue",
+            "unitCode":"DAY",
+            "unitText":"Day",
+            "value":"1.5"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "name": "Einzelfahrkarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification":[
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "17.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "37.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "69.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"6"
+            }
+          }
+
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Zillertal Superskipass",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08",
+            "validFrom":"2017-12-22"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          },
+          "areaServed": {
+            "@type":"Place",
+            "name":"Spieljoch"
+          }
+        },
+        "priceSpecification":[
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"82.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"98.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"114.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"131.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"143.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"171.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"199.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"226.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"7"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"251.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"8"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"275.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"9"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"299.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"10"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"323.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"11"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"345.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"12"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"367.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"13"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"389.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"14"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"410.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"15"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"428.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"16"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"447.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"17"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"466.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"18"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"482.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"19"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"493.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"20"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"506.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"21"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"158.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"4 in 6 Tagen",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"186.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"5 in 7 Tagen",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"207.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"6 in 7 Tagen",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"323.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"10 in 14 Tagen",
+              "value":"10"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Zillertal Superskipass",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-15",
+            "validFrom":"2017-12-02"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          },
+          "areaServed":[
+            {
+              "@type":"Place",
+              "name":"Hochzillertal"
+            },
+            {
+              "@type":"Place",
+              "name":"Hochfügen"
+            }
+          ]
+        },
+        "priceSpecification":[
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"82.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"98.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"114.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"131.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"143.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"171.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"199.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"226.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"7"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"251.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"8"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"275.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"9"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"299.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"10"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"323.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"11"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"345.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"12"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"367.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"13"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"389.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"14"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"410.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"15"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"428.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"16"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"447.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"17"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"466.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"18"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"482.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"19"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"493.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"20"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"506.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"21"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"158.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"4 in 6 Tagen",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"186.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"5 in 7 Tagen",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"207.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"6 in 7 Tagen",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"323.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"10 in 14 Tagen",
+              "value":"10"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Tageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "14"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "23.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "17.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "15.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "12.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "14"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "35.00",
+          "priceCurrency": "EUR",
+          "eligibleQuantity": {
+            "@type": "QuantitativeValue",
+            "unitCode": "DAY",
+            "unitText": "Day",
+            "value": "1.5"
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "name": "Einzelfahrten Spieljochbahn",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "14"
+          }
+        },
+        "priceSpecification":[
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "39.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Tal",
+              "value":"6"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Zillertal Superskipass",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-15",
+            "validFrom":"2017-12-02"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "14"
+          },
+          "areaServed":[
+            {
+              "@type":"Place",
+              "name":"Hochzillertal"
+            },
+            {
+              "@type":"Place",
+              "name":"Hochfügen"
+            }
+          ]
+        },
+        "priceSpecification":[
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"46.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"55.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"2.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"64.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"74.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"3.5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"80.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"96.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"112.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"127.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"7"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"141.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"8"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"154.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"9"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"168.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"10"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"181.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"11"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"194.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"12"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"206.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"13"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"219.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"14"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"230.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"15"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"241.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"16"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"251.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"17"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"262.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"18"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"271.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"19"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"277.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"20"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"284.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "unitText":"Day",
+              "value":"21"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"89.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"4 in 6 Tagen",
+              "value":"4"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"104.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"5 in 7 Tagen",
+              "value":"5"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"116.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"6 in 7 Tagen",
+              "value":"6"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"181.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"10 in 14 Tagen",
+              "value":"10"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Mehrtageskarten Zillertal Superskipass",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08",
+            "validFrom": "2017-12-22"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "14"
+          },
+          "areaServed": {
+            "@type": "Place",
+            "name": "Spieljoch"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "46.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "2"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "55.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "2.5"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "64.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "74.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "3.5"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "80.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "4"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "96.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "5"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "112.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "6"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "127.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "7"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "141.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "8"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "154.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "9"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "168.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "10"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "181.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "11"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "194.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "12"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "206.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "13"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "219.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "14"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "230.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "15"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "241.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "16"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "251.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "17"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "262.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "18"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "271.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "19"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "277.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "20"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "284.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitCode": "DAY",
+              "unitText": "Day",
+              "value": "21"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "89.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitText": "4 in 6 Tagen",
+              "value": "4"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "104.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitText": "5 in 7 Tagen",
+              "value": "5"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "116.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitText": "6 in 7 Tagen",
+              "value": "6"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "181.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity": {
+              "@type": "QuantitativeValue",
+              "unitText": "10 in 14 Tagen",
+              "value": "10"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Spieljochbahn | Hochfügen | Hochzillertal",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "532.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Spieljochbahn | Hochfügen | Hochzillertal",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "410.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Spieljochbahn | Hochfügen | Hochzillertal",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "239.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Spieljochbahn | Hochfügen | Hochzillertal",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Invalide",
+            "requiredMinAge":"19"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "410.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Zillertaler Superskipass",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "720.50",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Zillertaler Superskipass",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "576.50",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Zillertaler Superskipass",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "324.50",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Zillertaler Superskipass",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Invalide",
+            "requiredMinAge":"19"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "576.50",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Tirol Snow Card",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "771.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Tirol Snow Card",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "616.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Tirol Snow Card",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "386.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Saisonkarten Tirol Snow Card",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Invalide",
+            "requiredMinAge":"19"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "616.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Nachskilauf - Hochzillertal",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "10.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Nachskilauf - Hochzillertal",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "8.00",
+          "priceCurrency": "EUR"
+        }
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "name": "Nachskilauf - Hochzillertal",
+        "validFrom":"2017",
+        "validThrough":"2018",
+        "itemOffered": {
+          "@type": "Service",
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "5.00",
+          "priceCurrency": "EUR"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Offer",
+  "name": "Wifi-Hotspots",
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Pistentreff"},
+    {
+      "@type": "Place",
+      "name": "Thurntaler Rast"},
+    {
+      "@type": "Place",
+      "name": "Bergrestaurant Gadein"}
+  ]
+}

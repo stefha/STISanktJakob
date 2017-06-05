@@ -1,0 +1,383 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Organization",
+  "name":"Tarife",
+  "url":"http://www.spieljochbahn.at/wp-content/uploads/2017/04/spieljochbahn-tarife-sommer-20171.pdf",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Berg- &Talfahrt",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "18.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg- und Talfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "12.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Bergfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name": "mit Gästekarte",
+            "unitCode": "IE",
+            "price": "12.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Talfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "19.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg- und Talfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "13.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Bergfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "name":"ohne Gästekarte",
+            "unitCode": "IE",
+            "price": "13.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Talfahrt",
+              "value":"1"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Berg- &Talfahrt",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg- und Talfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "6.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Bergfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "6.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Talfahrt",
+              "value":"1"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Kletterkurse",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "39.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"MIN",
+              "value":"30"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Kletterkurse",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-08"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "39.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "9.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"MIN",
+              "value":"30"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Zillertal Activcard",
+        "description":"für 11 Seilbahnen und 6 Freischwimmbäder und die Benützung der meisten öffentlichen Verkehrsmittel in der Region (ausgenommen Dampfzug der Zillertalbahn)",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2017-10-08",
+            "validFrom":"2017-05-25"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "63.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "value":"6"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "86.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "value":"9"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "108.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "value":"12"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Zillertal Activcard",
+        "description":"für 11 Seilbahnen und 6 Freischwimmbäder und die Benützung der meisten öffentlichen Verkehrsmittel in der Region (ausgenommen Dampfzug der Zillertalbahn)",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2017-10-08",
+            "validFrom":"2017-05-25"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "31.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "value":"6"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "43.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "value":"9"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "54.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitCode":"DAY",
+              "value":"12"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Offer",
+        "name": "Paragliden",
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "13.50",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Bergfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "34.40",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Bergfahrt",
+              "value":"3"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "62.10",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Bergfahrt",
+              "value":"6"
+            }
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "170.00",
+            "priceCurrency": "EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Saisonkarte",
+              "value":"1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

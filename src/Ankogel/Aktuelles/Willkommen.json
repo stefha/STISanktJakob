@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Herzlich Willkommen!",
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Hochgebirgsbahnen Ankogel",
+    "url":"http://www.ankogel-ski.at/anreise-kontakt/"
+  },
+  "hasPart": [
+    {
+      "@type":"CreativeWork",
+      "name":"Interaktives Pisten-Panorama",
+      "text":"Im interaktiven Pistenplan sehen Sie, welche Lift-Anlagen und Skipisten aktuell geöffnet sind. Bitte beachten Sie, dass sich der Status unserer Anlagen mit der Wetterlage jederzeit ändern kann.",
+      "image":"http://www.hochzillertal.com/wp-content/uploads/2016/06/Panorama_HZ1617.jpg"
+    },
+    {
+      "@type":"VideoObject",
+      "name":"Ski resort ankogel Mallnitz | www.skiresort.info",
+      "thumbnail":"https://www.youtube.com/watch?v=Xf0TNBXRLkA"
+    }
+  ],
+  "mentions":{
+    "@type":"Event",
+    "name":"Sommersaison",
+    "startDate":"2017-06-25",
+    "endDate":"2017-09-24"
+  }
+}

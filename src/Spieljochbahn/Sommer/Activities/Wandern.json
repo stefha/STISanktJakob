@@ -1,0 +1,165 @@
+{
+  "@context":"schema.org",
+  "@type":"SportsActivityLocation",
+  "name":"Wandern",
+  "description":"DAS ERSTE WANDERGEBIET DES ZILLERTALS",
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "itemListElement":[
+      {
+        "@type":"SportsActivityLocation",
+        "name":"Erster Zillertaler Gipfel-Barfuss-Weg",
+        "amenityFeature":[
+          {
+            "@type":"LocationFeatureSpecification",
+            "name":"Direkt bei der Bergstation Spieljoch auf den Gipfel Spieljoch",
+            "value":"1920",
+            "unitCode":"MTR"
+          },
+          {
+            "@type":"LocationFeatureSpecification",
+            "name":"Gehzeit",
+            "value":"20",
+            "unitCode":"MIN"
+          }
+        ]
+      },
+      {
+        "@type":"SportsActivityLocation",
+        "name":"GEFÜHRTE WANDERUNGEN AM SPIELJOCH",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "itemListElement": [
+            {
+              "@type": "SportsActivityLocation",
+              "name": "Geführte Romantikwanderung Panoramabahn",
+              "areaServed":[
+                {
+                  "@type":"Place",
+                  "name":"Geols"
+                },
+                {
+                  "@type":"Place",
+                  "name":"Hochfügen"
+                }
+              ],
+              "amenityFeature": {
+                "@type": "LocationFeatureSpecification",
+                "name": "Treffpunkt",
+                "value": "Tourismusverband Fügen"
+              },
+              "contactPoint":{
+                "@type":"ContactPoint",
+                "contactType":"customer support",
+                "telephone":"+43 5288 622 62"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type":"SportsActivityLocation",
+        "name":"Panoramabahn Geols Bergstation - Geolsalm - Mittelstation/Kohleralmhof - Fügen Talstation Spieljochbahn",
+        "description":"Mit der Panoramabahn Geols zur Bergstation von dort weiter den Weg 17a zur Geolsalm und dann den Weg 17 zur Spieljochbahn-Mittelstation von dort den Waldweg 16 zur Spieljochbahn Talstation.",
+        "amenityFeature": {
+          "@type":"LocationFeatureSpecification",
+          "name":"Gehzeit",
+          "value":"3.5",
+          "unitCode":"HUR"
+        }
+      },
+      {
+        "@type":"SportsActivityLocation",
+        "name":"Panoramabahn Geols Bergstation - Mittelstation/Kohleralmhof",
+        "amenityFeature": {
+          "@type":"LocationFeatureSpecification",
+          "name":"Gehzeit",
+          "value":"2",
+          "unitCode":"HUR"
+        }
+      },
+      {
+        "@type":"SportsActivityLocation",
+        "name":"Panoramabahn Geols Bergstation - Geolsalm- Gartalm - Panoramabahn Geols Talstation",
+        "description":"Mit der Panoramabahn Geols zur Bergstation von dort weiter den Weg 17a zur Geolsalm dann weiter den Weg 18 zur Gartalm über den Gartalm Niederleger führt der Wanderweg zurück zur Panoramabahn Geols Talstation. Gehzeit 3 Std. (Gratis-Shuttlebus zurück nach Fügen 03.06.-24.09.17 im 20 min Takt; letzte Abfahrt Richtung Fügen 17:00 Uhr)",
+        "amenityFeature": {
+          "@type":"LocationFeatureSpecification",
+          "name":"Gehzeit",
+          "value":"3",
+          "unitCode":"HUR"
+        }
+      },
+      {
+        "@type":"SportsActivityLocation",
+        "name":"Panoramabahn Geols Bergstation - zum Klettergarten und Barfussweg",
+        "amenityFeature": {
+          "@type":"LocationFeatureSpecification",
+          "name":"Gehzeit",
+          "value":"30",
+          "unitCode":"MIN"
+        }
+      },
+      {
+        "@type":"SportsActivityLocation",
+        "name":"Rundwanderweg Panoramabahn - Kellerjoch",
+        "description":"Mit der Panoramabahn Geols zur Bergstation – von dort weiter zur Gartalm (1830 m Hochleger). Der Weg führt von hier durch baumloses Gelände zur Kellerjoch- Hütte. Das Kellerjoch ist der schönste Aussichtsberg des Inntales (2344 m hoch). Von dort können Sie entweder über den Alpinsteig oder den gleichen Weg retour zur Bergstation Panoramabahn gehen.",
+        "amenityFeature":[
+          {
+            "@type":"LocationFeatureSpecification",
+            "name":"Gehzeit",
+            "value":"5",
+            "unitCode":"HUR"
+          },
+          {
+            "@type":"LocationFeatureSpecification",
+            "name":"Gartalm",
+            "value":"1830",
+            "unitCode":"MTR"
+          },
+          {
+            "@type":"LocationFeatureSpecification",
+            "name":"Kellerjoch",
+            "value":"2344",
+            "unitCode":"MTR"
+          }
+        ]
+      },
+      {
+        "@type":"SportsActivityLocation",
+        "name":"Panoramabahn Geols Bergstation - Gartalm - Gamsstein - Hochfügen",
+        "description":"Mit der Panoramabahn Geols zur Bergstation – von dort weiter zur Gartalm (1830 m Hochleger). Bergweg mit Auszeichnung der Tiroler Landesregierung. Der Weg führt hier durch baumloses Gelände zum Gamssteinhaus (Loassattel 1683 m). Vorbei an der Maschentalalm und Lamarkalm nach Hochfügen und mit dem Bus zurück nach Fügen.",
+        "amenityFeature":[
+          {
+            "@type":"LocationFeatureSpecification",
+            "name":"Gehzeit",
+            "value":"3.5",
+            "unitCode":"HUR"
+          },
+          {
+            "@type":"LocationFeatureSpecification",
+            "name":"Gartalm",
+            "value":"1830",
+            "unitCode":"MTR"
+          },
+          {
+            "@type":"LocationFeatureSpecification",
+            "name":"Loassattel",
+            "value":"1683",
+            "unitCode":"MTR"
+          }
+        ]
+      },
+      {
+        "@type":"SportsActivityLocation",
+        "name":"Panoramabahn Geols Bergstation - Geolsalm - Gartalm Niederleger - Schnellenbergalm - Hochfügen",
+        "description":"Von der Bergstation geht es weiter auf dem Wanderweg zur Geolsalm. Von der Geolsalm führt der Weg über den Gartalm-Niederleger zur Schellenbergalm (Jausenstation Schellenberg). Von der Jausenstation Schellenberg geht es ein kurzes Stück auf der Asphaltstraße Richtung Hochfügen – nach ca. 300 m zweigt der Weg nach links in den Finsinggrund ab. Durch den Finsinggrund führt der geschotterte Weg über die Kegelalm oder entlang des Finsingbaches nach Hochfügen. Selbstverständlich kann man die Wanderung auch in umgekehrter Richtung von Hochfügen zur Bergstation der Panoramabahn Geols absolvieren.",
+        "amenityFeature": {
+          "@type":"LocationFeatureSpecification",
+          "name":"Gehzeit",
+          "value":"3.5",
+          "unitCode":"HUR"
+        }
+      }
+    ]
+  }
+}

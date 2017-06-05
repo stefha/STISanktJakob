@@ -1,0 +1,101 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Saisonkarte Zillertaler Superskipass",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-12-02",
+        "validThrough": "2018-04-15"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"720.50",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Saisonkarte Zillertaler Superskipass",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-12-02",
+        "validThrough": "2018-04-15"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Invalide",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"576.50",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Saisonkarte Zillertaler Superskipass",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-12-02",
+        "validThrough": "2018-04-15"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Jugend",
+        "requiredMinAge":"15",
+        "requiredMaxAge":"18"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"576.50",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Saisonkarte Zillertaler Superskipass",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validFrom": "2017-12-02",
+        "validThrough": "2018-04-15"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMinAge":"6",
+        "requiredMaxAge":"14"
+      }
+
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"324.50",
+      "priceCurrency":"EUR"
+    }
+  }
+]

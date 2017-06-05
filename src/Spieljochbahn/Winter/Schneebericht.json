@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type":"WebPage",
+  "name":"Schneebericht",
+  "description":"Ein kostenloser Busshuttle verkehrt zwischen Spieljochbahn und Hochzillertal - Kaltenbach sowie auch zwischen der Panoramabahn Geols und Hochfügen/ Hochzillertal - Kaltenbach",
+  "hasPart":[
+    {
+      "@type":"ImageObject",
+      "tumbnailUrl":"http://www.spieljochbahn.at/wp-content/uploads/2017/01/spieljochbahn-panoramabahn-geols-02.JPG"
+    },
+    {
+      "@type":"ImageObject",
+      "tumbnailUrl":"http://www.spieljochbahn.at/wp-content/uploads/2017/01/spieljochbahn-panoramabahn-geols-04.jpg"
+    },
+    {
+      "@type":"ImageObject",
+      "tumbnailUrl":"http://www.spieljochbahn.at/wp-content/uploads/2017/01/spieljochbahn-panoramabahn-geols-03-1.jpg"
+    }
+  ],
+  "about":[
+    {
+      "@type":"SportsActivityLocation",
+      "name":"SCHNEEBERICHT",
+      "openingHoursSpecification":{
+        "@type":"OpeningHoursSpecification",
+        "validFrom":"2017-03-20",
+        "validThrough":"2017-03-21",
+        "opens":"07:30"
+      },
+      "amenityFeature":[
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Schneehöhe Berg"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"davon Neuschnee Berg"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Schneequalität Berg"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Pistenqualität Berg"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Temperatur Berg"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Wetter Berg"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Schneehöhe Mittel"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"davon Neuschnee Mittel"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Schneequalität Mittel"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Pistenqualität Mittel"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Temperatur Mittel"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Wetter Mittel"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Schneehöhe Tal"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"davon Neuschnee Tal"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Schneequalität Tal"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Pistenqualität Tal"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Temperatur Tal"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Wetter Tal"
+        }
+      ]
+    }
+  ]
+}

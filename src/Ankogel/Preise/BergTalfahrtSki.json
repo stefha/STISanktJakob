@@ -1,0 +1,206 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"25.50",
+      "priceCurrency":"EUR",
+      "eligibleQuantity":{
+        "@type":"QuantitativeValue",
+        "unitText":"Berg/Tal",
+        "value":"1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name":"Gästekarte",
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"23.50",
+      "priceCurrency":"EUR",
+      "eligibleQuantity":{
+        "@type":"QuantitativeValue",
+        "unitText":"Berg/Tal",
+        "value":"1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "11.50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity":{
+        "@type":"QuantitativeValue",
+        "unitText":"Berg/Tal",
+        "value":"1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "13.00",
+      "priceCurrency": "EUR",
+      "eligibleQuantity":{
+        "@type":"QuantitativeValue",
+        "unitText":"Berg/Tal",
+        "value":"1"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "25.50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity":{
+        "@type":"QuantitativeValue",
+        "unitText":"Berg/Tal",
+        "value":"3"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge": "6",
+        "requiredMaxAge": "18"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "24.50",
+      "priceCurrency": "EUR",
+      "eligibleQuantity":{
+        "@type":"QuantitativeValue",
+        "unitText":"Berg/Tal",
+        "value":"3"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Normaltarif",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "51.00",
+      "priceCurrency": "EUR",
+      "eligibleQuantity":{
+        "@type":"QuantitativeValue",
+        "unitText":"Berg/Tal",
+        "value":"3"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Berg- und Talfahrt Ski)Hit",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Gästekarte",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge": "19"
+      }
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "unitCode": "IE",
+      "price": "49.00",
+      "priceCurrency": "EUR",
+      "eligibleQuantity":{
+        "@type":"QuantitativeValue",
+        "unitText":"Berg/Tal",
+        "value":"3"
+      }
+    }
+  }
+]

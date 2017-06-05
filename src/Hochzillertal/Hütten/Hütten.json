@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "name": "Kristallhütte",
+    "description":"Top of the Mountain since 2005",
+    "image":"http://www.hochzillertal.com/wp-content/uploads/DSC01518.jpg",
+    "url":"http://www.hochzillertal.com/huetten/kristallhuette/"
+  },{
+    "@type": "Restaurant",
+    "name": "Wedelhütte",
+    "description":"Die höchstgelegene 5-Sterne-Hütte der Alpen",
+    "image":"http://www.hochzillertal.com/wp-content/uploads/Wedelh%C3%BCtte-mit-Schrift-und-Logo2.jpg",
+    "url":"http://www.hochzillertal.com/huetten/wedelhuette/"
+  },{
+    "@type": "Restaurant",
+    "name": "Marendalm",
+    "description":"Kulinarische Höchstgenüsse direkt neben der Piste – familienfreundlich und mit großer Sonnenlounge",
+    "image":"http://www.hochzillertal.com/wp-content/uploads/HZ_000113.jpg",
+    "url":"http://www.hochzillertal.com/huetten/marendalm/"
+  },{
+    "@type": "Restaurant",
+    "name": "Firnhütte",
+    "description":"Der neue Geheimtipp bei der Neuhütten 6er Sesselbahn",
+    "image":"http://www.hochzillertal.com/wp-content/uploads/IMG_3794.jpg",
+    "url":"http://www.hochzillertal.com/huetten/firnhuette/"
+  }
+]

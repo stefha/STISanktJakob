@@ -1,0 +1,184 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2018-04-02",
+        "validFrom":"2017-12-16"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "46.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:30"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "41.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T11:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "38.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "31.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T13:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "23.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T14:00"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2018-04-02",
+        "validFrom":"2017-12-16"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMaxAge":"18",
+        "requiredMinAge":"6"
+      }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "24.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:30"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "20.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T11:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "19.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "15.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T13:00"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "11.50",
+        "priceCurrency": "EUR",
+        "validFrom": "T14:00"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "name":"Tarife nur für Köfelelifte 2016 (Schlepplifte in der Talstation)",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2018-04-02",
+        "validFrom":"2017-12-16"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "30.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:30"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "24.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name":"Tageskarten",
+    "itemOffered": {
+      "@type": "Service",
+      "name":"Tarife nur für Köfelelifte 2016 (Schlepplifte in der Talstation)",
+      "hoursAvailable": {
+        "@type": "OpeningHoursSpecification",
+        "validThrough": "2018-04-02",
+        "validFrom":"2017-12-16"
+      },
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMaxAge":"18",
+        "requiredMinAge":"6"
+      }
+    },
+    "priceSpecification": [
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "15.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T08:30"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "12.00",
+        "priceCurrency": "EUR",
+        "validFrom": "T12:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "@context": "http://schema.org",
+    "@type":"Organization",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/impressum/",
+    "name":"Informationsbüro Hochzillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Kaltenbach",
+      "postalCode": "A-6272",
+      "addressCountry": "Aurtria"
+    },
+    "contactPoint":{
+      "@type":"ContactPoint",
+      "email":"info@hochzillertal.com",
+      "telephone":"+43 / 5283 / 28 00",
+      "faxNumber":"43 / 5283 / 28 00-19",
+      "url":"http://www.hochzillertal.com/",
+      "contactType":"customer support"
+    },
+    "owns":{
+      "@type":"Product",
+      "isRelatedTo":{
+        "@type": "BankAccount",
+        "name":"Sparkasse Schwaz (20510)",
+        "additionalProperty":[
+          {
+            "@type":"PropertyValue",
+            "name":"IBAN",
+            "value":"AT34 2051 0006 0060 0605"
+          },{
+            "@type":"PropertyValue",
+            "name":"BIC",
+            "value":"SPSCAT22"
+          }
+        ]
+      }
+    },
+    "identifier":[{
+      "@type":"PropertyValue",
+      "name":"UID",
+      "value":"ATU 33236101"
+    },{
+      "@type":"PropertyValue",
+      "name":"DVR",
+      "value":"0696234"
+    },{
+      "@type":"PropertyValue",
+      "name":"Firmenbuch",
+      "value":"FN 45205 d LG IBK"
+    }
+    ],
+  "areaServed":[{
+      "@type":"AdministrativeArea",
+      "name":"Tourismus- und Freizeitwirtschaft"
+    }
+  ],
+  "member":"Wirtschaftskammer Tirol"
+}

@@ -1,0 +1,294 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten Ski)Hit",
+    "validFrom":"2017-09-01",
+    "validThrough":"2018-08-31",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge":"19"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "url":"http://www.gletscher.co.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.ankogel-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.gg-resort.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.hochpustertal-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.stjakob-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.gg-resort.at/"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "525.00",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "555.00",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten Ski)Hit",
+    "validFrom":"2017-09-01",
+    "validThrough":"2018-08-31",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge":"6",
+        "requiredMaxAge":"18"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "url":"http://www.gletscher.co.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.ankogel-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.gg-resort.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.hochpustertal-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.stjakob-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.gg-resort.at/"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "263.00",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "278.00",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten Ski)Hit",
+    "validFrom":"2017-09-01",
+    "validThrough":"2018-08-31",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Familie"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "url":"http://www.gletscher.co.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.ankogel-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.gg-resort.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.hochpustertal-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.stjakob-ski.at/"
+        },
+        {
+          "@type":"Place",
+          "url":"http://www.gg-resort.at/"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1042",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile – 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1092",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile – 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1116",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile – 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1182",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile – 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "770",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "783",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "884",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "988",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "962",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 3 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1066",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 3 Kinder",
+          "value":"1"
+        }
+      }
+    ]
+  }
+]
+

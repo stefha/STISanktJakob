@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type":"VideoObject",
+  "name": "iSki Tracking App",
+  "description": "Der iSki Tracker ist das Highlight in der Wintersaison für alle Skibegeisterten. Mit der neuen App iSki Tracker hast du ein einzigartiges Tool zur Aufzeichnung und Analyse deiner Skitage (Skitagebuch) und damit einen Service der Sonderklasse",
+  "thumbnailUrl": "https://youtu.be/cmjZ3NZN3xw",
+  "offers":[
+    {
+      "@type":"Offer",
+      "name":"für das Apple iPhone im App Store",
+      "url":"http://itunes.apple.com/de/app/iski-tracker-for-real-skiers/id476298379?mt=8"
+    },
+    {
+      "@type":"Offer",
+      "name":"für Android Smartphones im Android Market",
+      "url":"https://market.android.com/details?id=intermaps.iskitracker"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name":"Photos & Videos",
+  "itemListElement":[
+    {
+      "@type":"VideoObject",
+      "name":"Panoramabahn Geols aus der Sicht des Adlers",
+      "url":"http://www.spieljochbahn.at/en/portfolio/panoramabahn-geols-aus-der-sicht-des-adlers/"
+    },
+    {
+      "@type":"VideoObject",
+      "name":"Panoramabahn Geols",
+      "url":"http://www.spieljochbahn.at/en/portfolio/panoramabahn-geols-2/"
+    },
+    {
+      "@type":"ImageObject",
+      "name":"Panoramabahn Geols",
+      "url":"http://www.spieljochbahn.at/en/portfolio/panoramabahn-geols/"
+    },
+    {
+      "@type":"VideoObject",
+      "name":"(Deutsch) Winter Impressionen Spieljoch",
+      "url":"http://www.spieljochbahn.at/en/portfolio/winter-impressionen-spieljoch/"
+    },
+    {
+      "@type":"ImageObject",
+      "name":"Climbing",
+      "url":"http://www.spieljochbahn.at/en/portfolio/klettern/"
+    },
+    {
+      "@type":"ImageObject",
+      "name":"Barefoot hiking trail",
+      "url":"http://www.spieljochbahn.at/en/portfolio/barfusswanderweg/"
+    },
+    {
+      "@type":"VideoObject",
+      "name":"Eröffnung der Erlebnis-Wasserwelt für Kinder am Spieljoch",
+      "url":"http://www.spieljochbahn.at/en/portfolio/eroeffnung-der-erlebnis-wasserwelt-fuer-kinder-am-spieljoch/"
+    },
+    {
+      "@type":"VideoObject",
+      "name":"Spieljoch - der Erlebnisberg im Zillertal",
+      "url":"http://www.spieljochbahn.at/en/portfolio/eroeffnung-der-erlebnis-wasserwelt-fuer-kinder-am-spieljoch/"
+    },
+    {
+      "@type":"ImageObject",
+      "name":"Hiking",
+      "url":"http://www.spieljochbahn.at/en/portfolio/wandern/"
+    },
+    {
+      "@type":"ImageObject",
+      "name":"Spielteich",
+      "url":"http://www.spieljochbahn.at/en/portfolio/spielteich/"
+    },
+    {
+      "@type":"ImageObject",
+      "name":"Winter am Spieljoch 2015",
+      "url":"http://www.spieljochbahn.at/en/portfolio/winter-am-spieljoch-2015/"
+    }
+  ]
+}

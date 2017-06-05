@@ -1,0 +1,40 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "SkiResort",
+  "name": "Skizentrum Sillian",
+  "url": "http://www.stjakob-ski.at/anreise-kontakt/",
+  "logo": "http://www.stjakob-ski.at/wp-content/logo_st.jakob_ok.gif",
+  "telephone": " + 43 / 4842 / 6011-0",
+  "faxNumber": "+ 43 / 4842 / 6013",
+  "email": "info@hochpustertal-ski.at",
+  "image":"http://www.hochpustertal-ski.at/wp-content/uploads/spinne.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bergbahnen",
+    "addressLocality": "Sillian",
+    "postalCode": "A-9920",
+    "addressCountry": "Austria"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type":"OpeningHoursSpecification",
+      "opens":"8:30:00",
+      "closes":"16:00:00",
+      "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday",
+      "validFrom":"2016-12-08",
+      "validTrough":"2017-04-02"
+    }
+  ],
+  "additionalProperty":[
+    {
+      "@type":"PropertyValue",
+      "name":"Directions Zug",
+      "value":"Das Skizentrum Sillian Hochpustertal ist bequem per Bahn erreichbar. Der Bahnhof Sillian befindet sich nur wenige Gehminuten von der Talstation entfernt."},
+    {
+
+      "@type":"PropertyValue",
+      "name":"Directions Plane",
+      "value":"Mit dem Osttiroler Gästeshuttle erreichen Sie das Skizentrum um nur € 45 direkt vom Flughafen Klagenfurt, Salzburg oder Innsbruck. "
+    }
+    ]
+}

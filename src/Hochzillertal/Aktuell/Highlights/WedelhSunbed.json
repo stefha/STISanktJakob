@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Event",
+  "name": "Wedelhütte: Sunbed-Special",
+  "description": "Relaxen, chillen, Sonne tanken… im reservierten „Sonnenbett“ mit einer Fl. Berg-Perlé Prosecco, Fl.Römerquelle, Antipasti.",
+  "offers":{
+    "@type":"Offer",
+    "priceSpecification": [
+      {
+        "@type": "PriceSpecification",
+        "price": "65.00",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "value": "2"
+        }
+      },
+      {
+        "@type": "PriceSpecification",
+        "price": "115.00",
+        "priceCurrency": "EUR",
+        "eligibleQuantity": {
+          "@type": "QuantitativeValue",
+          "value": "2",
+          "description": "mit Champagner"
+        }
+      }
+    ]
+  }
+}

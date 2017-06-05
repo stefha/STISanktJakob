@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Event",
+  "name": "Gourmet-Lounge und neu SKY-TERRAZZA",
+  "description": "Steak`s on Top vom Holzkohlegrill Genießermenü auf Vorbestellung in der Gourmet-Lounge oder auf der neuen Sky-Terrazza",
+  "offers":{
+    "@type":"Offer",
+    "itemOffered":{
+      "@type":"Service",
+      "name":"In Vino Veritas",
+      "description":"Weinverkostungen im höchst gelegenen Weinkeller der Alpen auf Anfrage, Mindestteilnehmerzahl 6 Personen Wein & Käse"
+    },
+    "priceSpecification":{
+      "@type":"UnitPriceSpecification",
+      "price":"42.00",
+      "priceCurrency":"EUR",
+      "unitCode":"IE"
+    }
+  }
+}

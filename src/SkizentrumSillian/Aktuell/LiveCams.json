@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "itemListElement": {
+    " @type": "ListItem",
+    "item": {
+      "@type": "ImageObject",
+      "name": "Bergstation Außervillgraten",
+      "contentUrl": "http://webcamssillian.schultz.at/webcam/bergstation-Ausservillgraten/current/640.jpg"
+    },
+    "nextItem": {
+      " @type": "ListItem",
+      "item": {
+        "@type": "ImageObject",
+        "name": "Bergstation   Gadein",
+        "contentUrl": "http://www.webcamssillian.schultz.at/webcam/bergstation-Gadein/current/640.jpg"
+      },
+      "nextItem": {
+        "@type": "ListItem",
+        "item": {
+          "@type": "OmageObject",
+          "name": "6er   Sesselbahn",
+          "contentUrl": "http://webcamssillian.schultz.at/webcam/6er-Sesselbahn/current/640.jpg"
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Event",
+  "name": "VIP Gondel/Premium Wedel-Skitag für Zwei",
+  "description": "Mit der schwebenden BMW 7er Limousine zum perfekten Skigenuss.",
+  "offers":{
+    "@type":"Offer",
+    "itemOffered":{
+      "@type":"Service",
+      "description":"Abholung vom Parkplatz, Sondereingang zu den Gondeln, Champagner Empfang und Überreichung der Skitickets inkl. Kaution für den Chip, 2 x Tagesskipass für Ski-Optimal Hochzillertal / Kaltenbach, Bergfahrt mit der Weltneuheit „BMW individual for LEITNER“ Gondel, Mittagslunch inkl. Weinbegleitung auf der Wedelhütte / Premium Lounge",
+      "hoursAvailable":{
+        "@type":"OpeningHoursSpecification",
+        "opens":"11:00",
+        "closes":"11:30",
+        "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
+      }
+    },
+    "priceSpecification":{
+      "@type":"PriceSpecification",
+      "eligibleQuantity":{
+        "@type": "QuantitativeValue",
+        "value":"2"
+      },
+      "price":"195",
+      "priceCurrency":"EUR"
+    }
+  }
+}

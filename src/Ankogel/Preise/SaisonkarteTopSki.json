@@ -1,0 +1,776 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten „TopSki Kärnten-Osttirol“",
+    "validFrom":"2016-09-01",
+    "validThrough":"2017-05-07",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Erwachsene",
+        "requiredMinAge":"19"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "name":"Mölltaler Gletscher"
+        },
+        {
+          "@type":"Place",
+          "name":"Ankogel"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum St. Jakob i"
+        },
+        {
+          "@type":"Place",
+          "name":"Defereggen"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum Hochpustertal/Sillian"
+        },
+        {
+          "@type":"Place",
+          "name":"Großglocknerresort Kals/Matrei"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "559",
+        "priceCurrency": "EUR",
+        "validThrough":"2016-12-08",
+        "validFrom":"2016-09-01",
+        "name":"Vorverkauf"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "583",
+        "priceCurrency": "EUR",
+        "validFrom":"2016-12-09",
+        "validThrough":"2017-05-08",
+        "name":"Normalverkauf"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten „TopSki Kärnten-Osttirol“",
+    "validFrom":"2016-09-01",
+    "validThrough":"2017-05-07",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Jugendliche",
+        "requiredMinAge":"15",
+        "requiredMaxAge":"18"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "name":"Mölltaler Gletscher"
+        },
+        {
+          "@type":"Place",
+          "name":"Ankogel"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum St. Jakob i"
+        },
+        {
+          "@type":"Place",
+          "name":"Defereggen"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum Hochpustertal/Sillian"
+        },
+        {
+          "@type":"Place",
+          "name":"Großglocknerresort Kals/Matrei"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "448",
+        "priceCurrency": "EUR",
+        "validThrough":"2016-12-08",
+        "validFrom":"2016-09-01",
+        "name":"Vorverkauf"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "467",
+        "priceCurrency": "EUR",
+        "validFrom":"2016-12-09",
+        "validThrough":"2017-05-08",
+        "name":"Normalverkauf"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten „TopSki Kärnten-Osttirol“",
+    "validFrom":"2016-09-01",
+    "validThrough":"2017-05-07",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Kinder",
+        "requiredMinAge":"6",
+        "requiredMaxAge":"14"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "name":"Mölltaler Gletscher"
+        },
+        {
+          "@type":"Place",
+          "name":"Ankogel"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum St. Jakob i"
+        },
+        {
+          "@type":"Place",
+          "name":"Defereggen"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum Hochpustertal/Sillian"
+        },
+        {
+          "@type":"Place",
+          "name":"Großglocknerresort Kals/Matrei"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "280",
+        "priceCurrency": "EUR",
+        "validThrough":"2016-12-08",
+        "validFrom":"2016-09-01",
+        "name":"Vorverkauf"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "292",
+        "priceCurrency": "EUR",
+        "validFrom":"2016-12-09",
+        "validThrough":"2017-05-08",
+        "name":"Normalverkauf"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten „TopSki Kärnten-Osttirol“",
+    "validFrom":"2016-09-01",
+    "validThrough":"2017-05-07",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Invalide ab 60% Behinderung"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "name":"Mölltaler Gletscher"
+        },
+        {
+          "@type":"Place",
+          "name":"Ankogel"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum St. Jakob i"
+        },
+        {
+          "@type":"Place",
+          "name":"Defereggen"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum Hochpustertal/Sillian"
+        },
+        {
+          "@type":"Place",
+          "name":"Großglocknerresort Kals/Matrei"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "280",
+        "priceCurrency": "EUR",
+        "validThrough":"2016-12-08",
+        "validFrom":"2016-09-01",
+        "name":"Vorverkauf"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "292",
+        "priceCurrency": "EUR",
+        "validFrom":"2016-12-09",
+        "validThrough":"2017-05-08",
+        "name":"Normalverkauf"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten „TopSki Kärnten-Osttirol“",
+    "validFrom":"2016-09-01",
+    "validThrough":"2017-05-07",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Anschlusskarte Enkelpaket",
+        "requiredMinAge":"6",
+        "requiredMaxAge":"14"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "name":"Mölltaler Gletscher"
+        },
+        {
+          "@type":"Place",
+          "name":"Ankogel"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum St. Jakob i"
+        },
+        {
+          "@type":"Place",
+          "name":"Defereggen"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum Hochpustertal/Sillian"
+        },
+        {
+          "@type":"Place",
+          "name":"Großglocknerresort Kals/Matrei"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "179",
+        "priceCurrency": "EUR",
+        "validThrough":"2016-12-08",
+        "validFrom":"2016-09-01",
+        "name":"Vorverkauf"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "197",
+        "priceCurrency": "EUR",
+        "validFrom":"2016-12-09",
+        "validThrough":"2017-05-08",
+        "name":"Normalverkauf"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten „TopSki Kärnten-Osttirol“",
+    "validFrom":"2016-09-01",
+    "validThrough":"2017-05-07",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Anschlusskarte Enkelpaket",
+        "requiredMaxAge":"5"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "name":"Mölltaler Gletscher"
+        },
+        {
+          "@type":"Place",
+          "name":"Ankogel"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum St. Jakob i"
+        },
+        {
+          "@type":"Place",
+          "name":"Defereggen"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum Hochpustertal/Sillian"
+        },
+        {
+          "@type":"Place",
+          "name":"Großglocknerresort Kals/Matrei"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "26",
+        "priceCurrency": "EUR",
+        "validThrough":"2016-12-08",
+        "validFrom":"2016-09-01",
+        "name":"Vorverkauf"
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "37",
+        "priceCurrency": "EUR",
+        "validFrom":"2016-12-09",
+        "validThrough":"2017-05-08",
+        "name":"Normalverkauf"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "Saisonkarten „TopSki Kärnten-Osttirol“",
+    "validFrom":"2016-09-01",
+    "validThrough":"2017-05-07",
+    "itemOffered": {
+      "@type": "Service",
+      "audience": {
+        "@type": "PeopleAudience",
+        "audienceType": "Familie"
+      },
+      "areaServed":[
+        {
+          "@type":"Place",
+          "name":"Mölltaler Gletscher"
+        },
+        {
+          "@type":"Place",
+          "name":"Ankogel"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum St. Jakob i"
+        },
+        {
+          "@type":"Place",
+          "name":"Defereggen"
+        },
+        {
+          "@type":"Place",
+          "name":"Skizentrum Hochpustertal/Sillian"
+        },
+        {
+          "@type":"Place",
+          "name":"Großglocknerresort Kals/Matrei"
+        }
+      ]
+    },
+    "priceSpecification":[
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1025",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile – 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1071",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile – 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1100",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile – 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1141",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile – 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "859",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "908",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "934",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 3 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "978",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 3 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1296",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile, 1 Jugendlicher, 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1337",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile, 1 Jugendlicher, 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "981",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 1 Jugendlicher, 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1033",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 1 Jugendlicher, 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1056",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 1 Jugendlicher, 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1103",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 1 Jugendlicher, 2 Kinder",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1252",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 2 Jugendliche, 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1299",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 2 Jugendliche, 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1221",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile, 1 Jugendlicher",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1267",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile, 1 Jugendlicher",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1500",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile, 2 Jugendliche",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1569",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"2 Elternteile, 2 Jugendliche",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1177",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 2 Jugendliche",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1229",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 2 Jugendliche",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1456",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 3 Jugendliche",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "1531",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil, 3 Jugendliche",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "759",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "790",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 1 Kind",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "881",
+        "priceCurrency": "EUR",
+        "validThrough":"2017-12-08",
+        "name":"Vorverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 1 Jugendlicher",
+          "value":"1"
+        }
+      },
+      {
+        "@type": "UnitPriceSpecification",
+        "unitCode": "IE",
+        "price": "915",
+        "priceCurrency": "EUR",
+        "validFrom":"2017-12-09",
+        "name":"Normalverkauf",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"1 Elternteil – 1 Jugendlicher",
+          "value":"1"
+        }
+      }
+    ]
+  }
+]

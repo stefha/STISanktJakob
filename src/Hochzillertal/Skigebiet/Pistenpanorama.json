@@ -1,0 +1,14 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"MediaObject",
+    "name":"Interaktives Pistenpanorama",
+    "url":"http://winter.intermaps.com/hochzillertal_spieljoch"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"MediaObject",
+    "name":"Panorama-Bild",
+    "image":"http://www.hochzillertal.com/wp-content/uploads/2016/08/hochzillertal1617.jpg"
+  }
+]

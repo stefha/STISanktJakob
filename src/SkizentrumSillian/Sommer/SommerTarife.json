@@ -1,0 +1,517 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "Event",
+  "name": "Sommertarife",
+  "startDate": "2017-06-25",
+  "endDate": "2017-09-10",
+  "image": "http://www.stjakob-ski.at/wp-content/OsttirolCard11-327x500.jpg",
+  "location":{"@type":"Place",
+    "address":"St. Jakob i.D."
+  },
+  "description": "Betriebszeiten: 25.06. – 10.09.2017, Sonntag bis Freitag von 9:00-11:45 Uhr und 13:00-16:30 Uhr. Bei Schlechtwetter geschlossen! Gültig in: Großglockner Resort Kals/Matrei, Bergbahnen Hochpustertal/Sillian, Bergbahnen St. Jakob im Defereggental. Erwachsene ab 19 Jahre (ab 1998). Kinder 6 – 18 Jahre (1999 – 2011) .Kinder – Frei in Begleitung der Eltern: 0 – 5 Jahre (2012 – 2011). Alle Preise sind in € und enthalten die gesetzliche Mehrwertsteuer. Termin- und Tarifänderungen vor- behalten! Druckfehler können nie ausgeschlossen werden! Inhaltliche Änderungen jederzeit möglich.",
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Berg- und Talfahrt - Erwachsene - Normaltarif",
+      "price": "17.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Bergfahrt - Erwachsene - Normaltarif",
+      "price": "14.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Talfahrt - Erwachsene - Normaltarif",
+      "price": "12.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Berg- und Talfahrt - Erwachsene - Gästekarte",
+      "price": "16.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Bergfahrt - Erwachsene - Gästekarte",
+      "price": "14.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Talfahrt - Erwachsene - Gästekarte",
+      "price": "11.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Berg- und Talfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price": "9.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Bergfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price": "6.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Talfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price": "5.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Berg- und Talfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price": "8.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Bergfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price": "6.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 Sektion",
+      "description": "Talfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price": "5.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 1/2 Sektionen",
+      "description": "Berg/Berg/Tal - Erwachsene - Normaltarif",
+      "price": "21.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 1/2 Sektionen",
+      "description": "Berg/Tal/Tal - Erwachsene - Normaltarif",
+      "price": "21.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 1/2 Sektionen",
+      "description": "Berg/Berg/Tal - Erwachsene - Gästekarte",
+      "price": "20.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 1/2 Sektionen",
+      "description": "Berg/Tal/Tal - Erwachsene - Gästekarte",
+      "price": "20.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 1/2 Sektionen",
+      "description": "Berg/Berg/Tal - Kinder(JG1998-2010) - Normaltarif",
+      "price": "10.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 1/2 Sektionen",
+      "description": "Berg/Tal/Tal - Kinder(JG1998-2010) - Normaltarif",
+      "price": "10.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 1/2 Sektionen",
+      "description": "Berg/Berg/Tal - Kinder(JG1998-2010) - Gästekarte",
+      "price": "9.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 1 1/2 Sektionen",
+      "description": "Berg/Tal/Tal - Kinder(JG1998-2010) - Gästekarte",
+      "price": "9.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Berg- und Talfahrt - Erwachsene - Normaltarif",
+      "price": "24.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Bergfahrt - Erwachsene - Normaltarif",
+      "price": "21.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Talfahrt - Erwachsene - Normaltarif",
+      "price": "19.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Berg- und Talfahrt - Erwachsene - Gästekarte",
+      "price": "23.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Bergfahrt - Erwachsene - Gästekarte",
+      "price": "20.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Talfahrt - Erwachsene - Gästekarte",
+      "price": "18.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Berg- und Talfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price": "11.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Bergfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price": "10.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Talfahrt - Kinder(JG1998-2010) - Normaltarif",
+      "price": "9.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Berg- und Talfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price": "11.00",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Bergfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price": "9.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Wanderkarte 2 Sektionen",
+      "description": "Talfahrt - Kinder(JG1998-2010) - Gästekarte",
+      "price": "8.50",
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienkarte",
+      "priceSpecification": [
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "48.00",
+          "priceCurrency": "EUR",
+          "name": "Familie mit Kind - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "51.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit Kind - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "52.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 2 Kindern - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "56.00",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 2 Kindern - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "57.00",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 3 Kindern - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "59.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 3 Kindern - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "5.00",
+          "priceCurrency": "EUR",
+          "name": "Jedes weitere Kind - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "5.50",
+          "priceCurrency": "EUR",
+          "name": "Jedes weitere Kind - Normaltarif"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+      "validFrom": "2017-06-01",
+      "validThrough": "2017-09-24",
+      "description": "Gültig von Juni 2017 bis 24. September 2017 in: Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel. Jeweils eine Berg- & Talfahrt für 2 Sektionen pro Tag. Nur für Fußgänger ohne Sportgeräte",
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Matreier Goldried Bergbahnen"
+        },
+        {
+          "@type": "Place",
+          "name": "Bergbahnen Kals am Großglockner"
+        },
+        {
+          "@type": "Place",
+          "name": "Hochpustertaler Bergbahnen Sillian"
+        },
+        {
+          "@type": "Place",
+          "name": "Skizentrum St. Jakob i.D."
+        },
+        {
+          "@type": "Place",
+          "name": "Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel"
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "49.00",
+          "priceCurrency": "EUR",
+          "name": "Erwachsene - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "51.00",
+          "priceCurrency": "EUR",
+          "name": "Erwachsene - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "25.50",
+          "priceCurrency": "EUR",
+          "name": "Kinder - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "24.50",
+          "priceCurrency": "EUR",
+          "name": "Kinder - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "119.00",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 1 Kinde - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "115.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 1 Kind - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "139.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 2 Kindern - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "135.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 2 Kindern - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "0.00",
+          "priceCurrency": "EUR",
+          "name": "Jedes weitere Kind - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "0.00",
+          "priceCurrency": "EUR",
+          "name": "Jedes weitere Kind - Normaltarif"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+      "validFrom": "2017-06-01",
+      "validThrough": "2017-09-24",
+      "description": "Gültig von Juni 2017 bis 24. September 2017 in: Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel. Jeweils eine Berg- & Talfahrt für 2 Sektionen pro Tag. Nur für Fußgänger ohne Sportgeräte",
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Matreier Goldried Bergbahnen"
+        },
+        {
+          "@type": "Place",
+          "name": "Bergbahnen Kals am Großglockner"
+        },
+        {
+          "@type": "Place",
+          "name": "Hochpustertaler Bergbahnen Sillian"
+        },
+        {
+          "@type": "Place",
+          "name": "Skizentrum St. Jakob i.D."
+        },
+        {
+          "@type": "Place",
+          "name": "Mölltaler Gletscher (Gletscher Express und EUB) und Hochgebirgsbahnen Ankogel"
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "49.00",
+          "priceCurrency": "EUR",
+          "name": "Erwachsene - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "51.00",
+          "priceCurrency": "EUR",
+          "name": "Erwachsene - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "25.50",
+          "priceCurrency": "EUR",
+          "name": "Kinder - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "24.50",
+          "priceCurrency": "EUR",
+          "name": "Kinder - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "119.00",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 1 Kinde - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "115.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 1 Kind - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "139.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 2 Kindern - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "135.50",
+          "priceCurrency": "EUR",
+          "name": "Familie mit 2 Kindern - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "0.00",
+          "priceCurrency": "EUR",
+          "name": "Jedes weitere Kind - Gästekarte"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "0.00",
+          "priceCurrency": "EUR",
+          "name": "Jedes weitere Kind - Normaltarif"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+      "validFrom": "2017-06-01",
+      "validThrough": "2017-08-31",
+      "description": "Die Saisonkarten SKI)HIT sind auch im Sommer bis 31. August 2017 in den Gebieten Matreier Goldried Bergbahnen, Bergbahnen Kals am Großglockner, Hochpustertaler Bergbahnen Sillian, Skizentrum St. Jakob i.D., Mölltaler Gletscher und Hochgebirgsbahnen Ankogel gültig. Alle Preise sind in € angegeben und enthalten die gesetzliche Mehrwertsteuer. Termin- und Tarifänderungen vorbehalten!",
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Matreier Goldried Bergbahnen"
+        },
+        {
+          "@type": "Place",
+          "name": "Bergbahnen Kals am Großglockner"
+        },
+        {
+          "@type": "Place",
+          "name": "Hochpustertaler Bergbahnen Sillian"
+        },
+        {
+          "@type": "Place",
+          "name": "Skizentrum St. Jakob i.D."
+        },
+        {
+          "@type": "Place",
+          "name": "Mölltaler Gletscher und Hochgebirgsbahnen Ankogel"
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "256.50",
+          "priceCurrency": "EUR",
+          "name": "Erwachsene - Normaltarif"
+        },
+        {
+          "@type": "UnitPriceSpecification",
+          "price": "124.00",
+          "priceCurrency": "EUR",
+          "name": "Kinder - Normaltarif"
+        }
+      ]
+    }
+  ]
+}

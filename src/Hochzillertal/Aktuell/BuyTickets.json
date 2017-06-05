@@ -1,0 +1,38 @@
+[
+{
+  "@context": "http://schema.org",
+  "@type":"Offer",
+  "name":"Multi Day Tickets",
+  "potentialAction":{
+    "@type":"BuyAction"
+  },
+  "acceptedPaymentMethod":[
+      "http://purl.org/goodrelations/v1#VISA",
+      "http://purl.org/goodrelations/v1#MasterCard"
+  ]
+},
+{
+  "@context": "http://schema.org",
+  "@type":"Offer",
+  "name":"Wahlkarte",
+  "potentialAction":{
+    "@type":"BuyAction"
+  },
+  "acceptedPaymentMethod":[
+    "http://purl.org/goodrelations/v1#VISA",
+    "http://purl.org/goodrelations/v1#MasterCard"
+  ]
+},
+{
+  "@context": "http://schema.org",
+  "@type":"Offer",
+  "name":"Voucher",
+  "potentialAction":{
+    "@type":"BuyAction"
+  },
+  "acceptedPaymentMethod":[
+    "http://purl.org/goodrelations/v1#VISA",
+    "http://purl.org/goodrelations/v1#MasterCard"
+  ]
+}
+]

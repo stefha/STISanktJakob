@@ -1,0 +1,30 @@
+{
+  "@context":"schema.org",
+  "@type":"SportsActivityLocation",
+  "name":"Flying Fox",
+  "description":"Erleben Sie einen spektakulären Flug auf einem der höchstgelegenen Flying Fox Tirols. Die einzigartige Möglichkeit nach einer Gipfelbesteigung über ein gespanntes Drahtseil im Adler Sturzflugtempo zurück zum Ausgangspunkt zu gelangen. Die familienfreundliche Kombi-Tour bestehend aus dem Kinderklettersteig und anschließendem Flying Fox wird von einem unserer erfahrenen Outdoortrainer begleitet.",
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "itemListElement":{
+      "@type":"Offer",
+      "validFrom": "2017-06-03",
+      "validThrough": "2017-09-24",
+      "priceSpecification":{
+        "@type":"UnitPriceSpecifiaction",
+        "unitCode":"IE",
+        "price":"19.00",
+        "eligibleQuantity":{
+          "@type":"QuantitativeValue",
+          "unitText":"Person",
+          "maxValue":"10"
+        }
+      }
+    }
+  },
+  "amenityFeature":{
+    "@type":"LocationFeatureSpecification",
+    "name":"Dauer",
+    "value":"45",
+    "unitCode":"MIN"
+  }
+}

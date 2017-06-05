@@ -1,0 +1,9 @@
+[
+  {
+    "@context": "http://www.schema.org",
+    "@type":"SpreadsheatDigitalDocument",
+    "image":"http://www.hochpustertal-ski.at/wp-content/uploads/skibus201617.gif",
+    "name":"Skibusfahrplan 2016-2017",
+    "url":"http://www.hochpustertal-ski.at/wp-content/uploads/skibus201617.gif"
+  }
+]

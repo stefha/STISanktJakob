@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type":"WinAction",
+  "description":"Nach Abschluss der Befragung gelangen Sie zum Teilnahmeformular für das Gewinnspiel. Aus rechtlichen Gründen ist das Mindestalter 14 Jahre! Der Rechtsweg ist ausgeschlossen.",
+  "agent":{
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  },
+  "endTime":"2017-05",
+  "result":[
+    {
+      "@type":"Award",
+      "category":"Prize Game",
+      "description":"50 x 6-Tagesskipass"
+    },
+    {
+      "@type":"Award",
+      "category":"Prize Game",
+      "description":"100 x 1-Tagesskipass"
+    }
+  ],
+  "target":{
+    "@type":"EntryPoint",
+    "actionPlatform":"https://webmark.manova.at/t/seilbahnen/polls/ku/language_selector?u=262675.KJZPL&fit=w"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type":"ItemList",
+  "name":"LinkTipps",
+  "itemListElement":[
+    {
+      "@type":"Website",
+      "name":"Urlaubsinformation Mallnitz",
+      "url":"http://www.mallnitz.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Tourismusbüro Flattach",
+      "url":"http://www.flattach.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Nationalpark Hohe Tauern",
+      "url":"http://www.nationalpark-hohetauern.at/de/articles/View/588"
+    },
+    {
+      "@type":"Website",
+      "name":"Skiline: Höhenmeter-Diagramm von Ihrem Skitag",
+      "url":"http://www.skiline.cc/ticket/ankogel"
+    },
+    {
+      "@type":"Website",
+      "name":"Klassenfahrten Klühspies",
+      "url":"http://www.klassenfahrten-kluehspies.de/reise/ski-gruppenreisen/moelltaler-gletscher-mallnitz-ankogel/"
+    },
+    {
+      "@type":"Website",
+      "name":"Lawinenlage und Bergwette",
+      "url":"http://www.lawine.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Verkehrsservice ÖAMTC",
+      "url":"http://www.oeamtc.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Verkehrsservice Deutschland ADAC",
+      "url":"http://www.adac.de/"
+    },
+    {
+      "@type":"Website",
+      "name":"Autoschleuse Tauernbahn",
+      "url":"http://www.oebb.at/de/Reiseplanung/PKW_Motor-_und_Fahrrad/Autoschleuse_Tauernbahn/"
+    },
+    {
+      "@type":"Website",
+      "name":"Ankogel auf Facebook",
+      "url":"https://www.facebook.com/sillian.hochpustertal/"
+    },
+    {
+      "@type":"Website",
+      "name":"Schultz Gruppe auf Twitter",
+      "url":"https://twitter.com/SchultzGruppe"
+    },
+    {
+      "@type":"Website",
+      "name":"Schultz Gruppe auf YouTube",
+      "url":"https://www.youtube.com/user/SchultzGruppe"
+    },
+    {
+      "@type":"Website",
+      "name":"Dolomiten Residenz Sporthotel Sillian",
+      "url":"http://www.sporthotel-sillian.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Gradonna Mountain Resort",
+      "url":"http://www.gradonna.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Skizentrum St. Jakob im Defereggental",
+      "url":"http://www.stjakob-ski.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Großglockner Resort Kals-Matrei",
+      "url":"http://www.gg-resort.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Mölltaler Gletscher",
+      "url":"http://www.gletscher.co.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Ankogel Mallnitz",
+      "url":"http://www.ankogel-ski.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Hochzillertal",
+      "url":"http://www.hochzillertal.com/"
+    },
+    {
+      "@type":"Website",
+      "name":"Golfclub Zillertal – Uderns",
+      "url":"http://www.golf-zillertal.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Sportresidenz Zillertal",
+      "url":"http://www.sportresidenz.at/"
+    }
+  ]
+}

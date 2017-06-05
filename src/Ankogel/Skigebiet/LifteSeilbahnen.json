@@ -1,0 +1,132 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/Ankogel-mit-Gondeln-Sonnenskilauf.jpg",
+    "name":"Ankogelbahn 1",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Länge",
+        "value":"1808",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Berg",
+        "value":"1941",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Tal",
+        "value":"1287",
+        "unitCode":"MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/ANK-Gondelbahn1.jpg",
+    "name":"Ankogelbahn 2",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Länge",
+        "value":"2387",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Berg",
+        "value":"2637",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Tal",
+        "value":"1941",
+        "unitCode":"MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/ank1.jpg",
+    "name":"Ankogelschlepplift",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Länge",
+        "value":"900",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Berg",
+        "value":"2461",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Tal",
+        "value":"2200",
+        "unitCode":"MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/ANK-Gondelbahn1.jpg",
+    "name":"Köfele I",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Länge",
+        "value":"632",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Berg",
+        "value":"1368",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Tal",
+        "value":"1267",
+        "unitCode":"MTR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"SportsActivityLocation",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/ANK-Gondelbahn1.jpg",
+    "name":"Köfele II",
+    "amenityFeature":[
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Länge",
+        "value":"300",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Berg",
+        "value":"1309",
+        "unitCode":"MTR"
+      },
+      {
+        "@type":"LocationFeatureSpecification",
+        "name":"Höhe Tal",
+        "value":"1270",
+        "unitCode":"MTR"
+      }
+    ]
+  }
+]

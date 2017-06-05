@@ -1,0 +1,8 @@
+{
+  "@context":"schema.org",
+  "@type":"SportsActivityLocation",
+  "name":"Barfusswanderweg",
+  "description":"ERSTER ZILLERTALER GIPFEL-BARFUSS-WANDERWEG",
+  "address":"direkt bei der Bergstation der Spieljochbahn.",
+  "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/06/barfussweg_slide_04-1-858x400.jpg"
+}

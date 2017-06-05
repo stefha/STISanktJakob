@@ -1,0 +1,9 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Map",
+  "name":"Interaktives Pistenplan",
+  "url":"hhttp://winter.intermaps.com/sillian",
+"potentialAction":{
+  "@type":"SearchAction",
+  "query":"input-required"}
+}

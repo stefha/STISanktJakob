@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Restaurant",
+  "name": "Kristallhütte",
+  "description": "Ob Hüttengaudi, romantische Candle-Light Dinner, Gourmet- oder Fondueabende, Wein- oder Schnapsverkostungen, knisternde Kaminfeuerrunden, Fackelwanderungen oder schlicht die Ruhe auf 2.147 m Seehöhe machen den Aufenthalt in der Kristallhütte zu einem unvergesslichen Erlebnis.",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/DSC01518.jpg",
+  "url": "www.kristallhuette.at"
+}

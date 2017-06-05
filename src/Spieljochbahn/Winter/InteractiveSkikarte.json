@@ -1,0 +1,6 @@
+{
+  "@context": "http://schema.org",
+  "@type":"MediaObject",
+  "name":"Interaktive Skikarte",
+  "thumbnailUrl":"http://www.spieljochbahn.at/winter/interaktive-skikarte/"
+}

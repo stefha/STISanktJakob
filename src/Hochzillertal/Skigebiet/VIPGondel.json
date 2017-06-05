@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name":"VIP Gondel",
+  "description":"Die erste schwebende Limousine – exklusiv in Hochzillertal",
+  "offers":[
+    {
+      "@type":"Offer",
+      "name":"VIP Gondel/Premium Early Bird für Zwei",
+      "image":"http://www.hochzillertal.com/wp-content/uploads/BWM-Linie.jpg",
+      "url":"http://www.hochzillertal.com/ski/premium-early-bird-fuer-zwei/"
+    },
+    {
+      "@type":"Offer",
+      "name":"VIP Gondel/Premium Wedel-Skitag für Zwei",
+      "image":"http://www.hochzillertal.com/wp-content/uploads/20121208_145123.jpg",
+      "url":"http://www.hochzillertal.com/ski/premium-wedel-skitag-fuer-zwei/"
+    }
+  ]
+}

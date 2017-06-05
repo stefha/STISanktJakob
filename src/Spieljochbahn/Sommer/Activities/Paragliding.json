@@ -1,0 +1,42 @@
+{
+  "@context":"schema.org",
+  "@type":"SportsActivityLocation",
+  "name":"SPIELJOCHBAHN FÜGEN – PARADIES FÜR PARAGLEITER",
+  "amenityFeature":[
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Bergstation",
+      "value":"1200",
+      "unitCode":"MTR"
+    },
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Onkeljoch",
+      "value":"1450",
+      "unitCode":"MTR"
+    }
+  ],
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "itemListElement":[
+      {
+        "@type":"LocalBusiness",
+        "name":"Stocky Air",
+        "contactPoint":{
+          "@type":"ContactPoint",
+          "contactType":"customer support",
+          "telephone":"+43 664 3407976"
+        }
+      },
+      {
+        "@type":"LocalBusiness",
+        "name":"Aktivzentrum Zillertal",
+        "contactPoint":{
+          "@type":"ContactPoint",
+          "contactType":"customer support",
+          "telephone":"+43 664 3139800"
+        }
+      }
+    ]
+  }
+}

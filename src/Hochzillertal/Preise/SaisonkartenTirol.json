@@ -1,0 +1,114 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Saisonkarten Tirol Snowcard",
+        "url": "http://www.snowcard.tirol.at/",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validFrom": "2017-10-01",
+            "validThrough": "2018-05-15"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "771.00",
+          "priceCurrency": "EUR"
+        }
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Saisonkarten Tirol Snowcard",
+        "url": "http://www.snowcard.tirol.at/",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validFrom": "2017-10-01",
+            "validThrough": "2018-05-15"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMaxAge": "18",
+            "requiredMinAge": "15"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "616.00",
+          "priceCurrency": "EUR"
+        }
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Saisonkarten Tirol Snowcard",
+        "url": "http://www.snowcard.tirol.at/",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validFrom": "2017-10-01",
+            "validThrough": "2018-05-15"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMaxAge": "14"
+          }
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "unitCode": "IE",
+          "price": "386.00",
+          "priceCurrency": "EUR"
+        }
+      }
+    }
+  }
+]
+

@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Event",
+  "name": "Wedelhütte: Wedler’s Deluxe Frühstück",
+  "description": "Beginne Deinen Tag am höchsten Punkt im Skigebiet Hochzillertal. Gönn Dir das Beste vom Hüttenbuffet inkl. Eierspeise, Saft, zwei Tassen Kaffee nach Wahl und einem Glas Berg Perlé",
+  "offers":{
+    "@type":"Offer",
+    "itemOffered":{
+      "@type":"Service",
+      "hoursAvailable":{
+        "@type":"OpeningHoursSpecification",
+        "opens":"08:30",
+        "closes":"10:15",
+        "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
+      }
+    },
+    "priceSpecification":{
+      "@type":"PriceSpecification",
+      "price":"16.50",
+      "priceCurrency":"EUR"
+    }
+  }
+}

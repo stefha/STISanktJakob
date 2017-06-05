@@ -1,0 +1,100 @@
+  [
+    {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-01-08",
+      "endDate":"2017-01-15",
+      "name":"Weinwoche: verschiedene Nationale und internationale Top Winzer – Wedelhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-01-15",
+      "endDate":"2017-01-15",
+      "name":"Genuss-Stammtisch in der Gourmet Lounge Thema: All about the Beef – Wedelhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-01-13",
+      "endDate":"2017-01-13",
+      "name":"Full Moon Skiing im Hochzillertal – Vollmond Geflüster – Kristallhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-01-28",
+      "endDate":"2017-01-28",
+      "name":"Ibiza Global Radio Winter Sessions Part I mit Anna Tur : Kristallhütte feat. Ibiza Global Radio & Ibiza Style Magazin"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-02-11",
+      "endDate":"2017-02-11",
+      "name":"Full Moon Skiing im Hochzillertal – Vollmond Geflüster – Kristallhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-02-12",
+      "endDate":"2017-02-12",
+      "name":"Genuss-Stammtisch in der Gourmet Lounge Thema: Wildbret – Wedelhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-02-25",
+      "endDate":"2017-02-25",
+      "name":" Ibiza Global Radio Winter Sessions Part II mit Miguel Garji: Kristallhütte feat. Ibiza Global Radio & Ibiza Style Magazin"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-02-27",
+      "endDate":"2017-02-27",
+      "name":"Rosen „Mountag“ Party: „Hokuspokus“ die Kultband aus dem Zillertal – Wedelhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-03-11",
+      "endDate":"2017-03-11",
+      "name":" Full Moon Skiing im Hochzillertal – Vollmond Geflüster – Kristallhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-03-18",
+      "endDate":"2017-03-18",
+      "name":"Spirng Time Weekend: Kristallhütte feat. Special Guest DJ"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-03-19",
+      "endDate":"2017-03-19",
+      "name":"Genuss-Stammtisch in der Gourmet Lounge Thema: Best of Seafood – Wedelhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-03-29",
+      "endDate":"2017-04-01",
+      "name":"Ibiza Global Radio Winter Sessions Part III The Closing with Anna Tur & Mimi Barber & Ibiza Style Magazin: The Closing Kristallhütte feat. Ibiza Global Radio & Ibiza Style Magazin"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-03-25",
+      "endDate":"2017-04-25",
+      "name":"Beachmountain the Spring Party – Wedelhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-04-02",
+      "endDate":"2017-04-02",
+      "name":"Genuss-Stammtisch in der Gourmet Lounge Thema: Das Beste von Land & Meer – Wedelhütte"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-04-06",
+      "endDate":"2017-04-08",
+      "name":"Winzer Wedelcup"
+    },  {
+      "@context": "http://schema.org",
+      "@type":"Event",
+      "startDate":"2017-04-17",
+      "endDate":"2017-04-17",
+      "name":"Der legendäre Kristallhütten Jazzbrunch"
+    }
+  ]
+

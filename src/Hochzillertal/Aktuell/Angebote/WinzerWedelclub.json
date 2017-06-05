@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "about":{
+    "@type": "Event",
+    "name": "6. Winzer Wedelcup im Hochzillertal",
+    "startDate": "2017-04-06",
+    "endDate":"2017-04-08",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name":"2-Tages-Package",
+        "validFrom": "2015-10-01T00:01",
+        "validThrough": "2016-01-31T23:59",
+        "price": "198.00",
+        "priceCurrency": "EUR"
+      },{
+        "@type": "Offer",
+        "name":"3-Tages-Package",
+        "validFrom": "2016-02-01T00:01",
+        "validThrough": "2016-06-14T23:59",
+        "price": "235.00",
+        "priceCurrency": "EUR"
+      }
+    ],
+    "organizer": {
+      "@type":"SkiResort",
+      "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+      "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+    }
+  }
+}

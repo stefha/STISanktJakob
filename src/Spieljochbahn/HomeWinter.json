@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://www.spieljochbahn.at/",
+  "about": {
+    "@type":"SkiResort",
+    "name":"Spieljochbahn Fügen",
+    "url":"http://www.spieljochbahn.at/service/kontakt-anfrage/"
+  }
+}

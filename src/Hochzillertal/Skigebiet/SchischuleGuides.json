@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Skischule Hochzillertal ITS",
+    "email":"skischul-info@hochzillertal.at",
+    "telephone":"05283/2822-0",
+    "faxNumber":"05283/2822-8",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6272",
+      "addressLocality":"Kaltenbach/Talstation"
+    },
+    "employee":{
+      "@type":"Person",
+      "name":"Gerhard Wildauer"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Skischule Optimal",
+    "email":" info@skischule-optimal.at",
+    "telephone":"05283/2069",
+    "faxNumber":"05283/2069-4",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6272",
+      "addressLocality":"Kaltenbach/Talstation"
+    },
+    "employee":{
+      "@type":"Person",
+      "name":"Isabella Hauser"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Tiefschnee Powder Freeride Touren",
+    "email":"info@zillertaler-bergfuehrer.at",
+    "url":"http://www.zillertaler-bergfuehrer.at/bergbahn-hochzillertal/",
+    "telephone":"+43(0)664 124 00 69",
+    "employee":{
+      "@type":"Person",
+      "name":"Stefan Wierer"
+    }
+  }
+]
+
+
+
+
+
+

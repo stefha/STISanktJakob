@@ -1,0 +1,76 @@
+{
+  "@context":"schema.org",
+  "@type":"SportsActivityLocation",
+  "name":"Klettern",
+  "address":"eine halbe Stunde von der Bergstation Panoramabahn",
+  "contactPoint":{
+    "@type":"ContactPoint",
+    "contactType":"customer support",
+    "telephone":"+43 699/10926876"
+  },
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "name":"KINDERKLETTERGARTEN",
+    "itemListElement":[
+      {
+        "@type":"Offer",
+        "name":"Kinderkletterkurs",
+        "validFrom": "2017-06-03",
+        "validThrough": "2017-09-24",
+        "itemOffered": {
+          "@type":"Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens":"10:00"
+          },
+          "audience":{
+            "@type":"PeopleAudience",
+            "audienceType":"Kinder"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type":"UnitPriceSpecification",
+            "name":"Felsklettern und als Abschluss die “ERSTE Gipfelbesteigung”",
+            "unitCode":"IE",
+            "price":"39.00",
+            "priceCurrency":"EUR"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "name":"Schnupperklettern",
+            "unitCode":"IE",
+            "price":"9.00",
+            "priceCurrency":"EUR"
+          }
+        ]
+      },
+      {
+        "@type":"Offer",
+        "name":"Kinderkletterkurs",
+        "validFrom": "2017-06-03",
+        "validThrough": "2017-09-24",
+        "itemOffered": {
+          "@type":"Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens":"10:00"
+          },
+          "audience":{
+            "@type":"PeopleAudience",
+            "audienceType":"Erwachsene"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type":"UnitPriceSpecification",
+            "name":"Felsklettern und als Abschluss die “ERSTE Gipfelbesteigung”",
+            "unitCode":"IE",
+            "price":"39.00",
+            "priceCurrency":"EUR"
+          }
+        ]
+      }
+    ]
+  }
+}

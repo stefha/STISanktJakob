@@ -1,0 +1,27 @@
+{
+  "@context":"schema.org",
+  "@type":"SportsActivityLocation",
+  "contactPoint":{
+    "@type":"ContactPoint",
+    "contactType":"customer support",
+    "telephone":" 04784 632 ",
+    "email":"info@ankogel-ski.at"
+  },
+  "event":{
+    "@type":"Event",
+    "name": "Sommersaison",
+    "offers":{
+      "@type":"Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "opens": "08:30",
+          "closes": "16:30",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24"
+        }
+      }
+    }
+  }
+}

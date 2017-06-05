@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Park",
+  "openingHours": "Mo-Su, 09:00 - 15:00",
+  "name":"Betterpark Hochzillertal",
+  "description":"Der Snowpark verfügt über eine Gesamtlänge von 320 m und hat mittlerweile einen eigenen Lift erhalten. Der Snowpark bietet für alle Könnerstufen verschiedene Bereiche. Man kann zwischen Beginner Line, Medium Line, Pro Line, Jib Line und XL-Kicker Line wählen.",
+  "address":"Der Betterpark Hochzillertal befindet sich direkt unterhalb des Ausstiegs der 8er-Sesselbahn Schnee Express.",
+  "image":"http://www.hochzillertal.com/wp-content/uploads/ambros_fuerstaller4_s.jpg",
+  "url":"http://hochzillertal.betterparks.at"
+
+}

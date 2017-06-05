@@ -1,0 +1,103 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name":"Nachtskilauf",
+    "offers": {
+      "@type":"Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "description": "Beschneiung bis ins Tal",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "opens": "19:00",
+          "closes": "22:00",
+          "dayOfWeek": "Friday",
+          "validFrom": "2017-01-13",
+          "validThrough": "2017-03-15",
+          "description": "Je nach Wetter und Schneelage"
+        },
+        "audience":{
+          "@type": "PeopleAudience",
+          "audienceType":"Erwachsene"
+        }
+      },
+      "priceSpecification":
+      {
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":"10",
+        "priceCurrency":"EUR"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name":"Nachtskilauf",
+    "offers": {
+      "@type":"Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "description": "Beschneiung bis ins Tal",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "opens": "19:00",
+          "closes": "22:00",
+          "dayOfWeek": "Friday",
+          "validFrom": "2017-01-13",
+          "validThrough": "2017-03-15",
+          "description": "Je nach Wetter und Schneelage"
+        },
+        "audience":{
+          "@type": "PeopleAudience",
+          "audienceType":"Jugend",
+          "requiredMaxAge":"18",
+          "requiredMinAge":"15"
+        }
+      },
+      "priceSpecification":
+      {
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":"8",
+        "priceCurrency":"EUR"
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name":"Nachtskilauf",
+    "offers": {
+      "@type":"Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "description": "Beschneiung bis ins Tal",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "opens": "19:00",
+          "closes": "22:00",
+          "dayOfWeek": "Friday",
+          "validFrom": "2017-01-13",
+          "validThrough": "2017-03-615",
+          "description": "Je nach Wetter und Schneelage"
+        },
+        "audience":{
+          "@type": "PeopleAudience",
+          "audienceType":"Kinder",
+          "requiredMaxAge":"14"
+        }
+      },
+      "priceSpecification":
+      {
+        "@type":"UnitPriceSpecification",
+        "unitCode":"IE",
+        "price":"5",
+        "priceCurrency":"EUR"
+      }
+    }
+  }
+
+]
+

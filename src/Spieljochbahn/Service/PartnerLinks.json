@@ -1,0 +1,97 @@
+{
+  "@context": "http://www.schema.org",
+  "@type":"ItemList",
+  "name":"Partner & Links",
+  "itemListElement":[
+    {
+      "@type":"Website",
+      "name":"Fügen",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/fuegen-link.jpg",
+      "url":"http://www.fuegen.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Erlebnis Therme Zillertal",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/therme-logo.jpg",
+      "url":"http://www.erlebnistherme-zillertal.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Feuerwerk Holz Erlebnis Welt",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/feuerwerk-logo.jpg",
+      "url":"http://www.binderholz-feuerwerk.com/"
+    },
+    {
+      "@type":"Website",
+      "name":"Better2gether.net",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/better2gether-logo.jpg",
+      "url":"http://www.b2g.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Fügen - Kaltenbach",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/efrz-link.jpg",
+      "url":"http://www.best-of-zillertal.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Ausgezeichnete Österreichische Sommerbahn",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/sommerbahnen-logo.jpg",
+      "url":"http://www.sommerbahnen.tirol.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Zillertal.at",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/zillertal-link.jpg",
+      "url":"http://www.zillertal.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Alpinist.at",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/alpinist-links.jpg",
+      "url":"http://www.alpinist.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Bergführer Zillertal",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/bergfuehrer-logo.jpg",
+      "url":"http://www.bergfuehrer-zillertal.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"snowXpress",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/snowXcross-logo.jpg",
+      "url":"https://www.youtube.com/watch?v=GNPUhsSFIy8"
+    },
+    {
+      "@type":"Website",
+      "name":"Intermaps",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/intermaps-logo.jpg",
+      "url":"http://about.intermaps.com/cms/"
+    },
+    {
+      "@type":"Website",
+      "name":"Skiresort",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/skiresort-logo.jpg",
+      "url":"http://www.skiresort.de/"
+    },
+    {
+      "@type":"Website",
+      "name":"Crowny",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/crowny-logo.jpg",
+      "url":"http://www.crowny.at/"
+    },
+    {
+      "@type":"Website",
+      "name":"Hof Unterhuben Zillertal",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/hof_unterhuben.jpg",
+      "url":"http://www.hof-unterhuben-zillertal.com/"
+    },
+    {
+      "@type":"Website",
+      "name":"Welt des Wintersports",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/04/welt-des-wintersportes-logo.jpg",
+      "url":"http://www.weltdeswintersports.de/"
+    }
+  ]
+}

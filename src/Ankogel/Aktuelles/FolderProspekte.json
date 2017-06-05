@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"DigitalDocument",
+    "name": "Sommer Folder 2017",
+    "thumbnailUrl": "http://www.ankogel-ski.at/wp-content/uploads/Sommerkarte-Ankogel-2017-Ansicht-v3.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"DigitalDocument",
+    "name": "Mölltaler Gletscher und Ankogel 2016/17",
+    "thumbnailUrl": "http://www.gletscher.co.at/wp-content/uploads/Tages-und-Mehrtageskarten-Skihit-16_17-DE-FIX.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"DigitalDocument",
+    "name": "Mölltaler Gletscher und Ankogel Deckblatt 2016/17 DE/EN",
+    "thumbnailUrl": "http://www.gletscher.co.at/wp-content/uploads/Deckblatt_engl-16-17_a6.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"DigitalDocument",
+    "name": "Tages- und Mehrtageskarten SkiHit 2016/17 DE",
+    "thumbnailUrl": "http://www.gletscher.co.at/wp-content/uploads/Tages-und-Mehrtageskarten-Skihit-16_17-DE-FIX.pdf"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "@context":"schema.org",
+  "@type":"SportsActivityLocation",
+  "name":"ERLEBNISBERG SPIELJOCH",
+  "url":"http://www.sommerbahnen.tirol.at/",
+  "image":"http://www.spieljochbahn.at/wp-content/uploads/2016/03/sommer-spieljochbahn.jpg",
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "itemListElement": {
+      "@type":"LocalBusiness",
+      "name":"Spieljochbahn",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/07/panorama_spieljochbahn.jpg",
+      "hasOfferCatalog":{
+        "@type":"OfferCatalog",
+        "itemListElement":{
+          "@type":"Offer",
+          "validFrom": "2017-06-03",
+          "validThrough": "2017-09-24",
+          "itemOffered": {
+            "@type":"Service",
+            "hoursAvailable": {
+              "@type": "OpeningHoursSpecification",
+              "opens":"09:00",
+              "closes":"16:00"
+            }
+          }
+        }
+      }
+    }
+  }
+}

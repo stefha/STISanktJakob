@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Willkommen bei SKi-optimal Hochzillertal",
+  "url":"http://www.hochzillertal.com/news/",
+  "image":"http://www.hochzillertal.com/wp-content/uploads/skiresort_b02_15_de-e1441017330225.jpg",
+  "description": "Durchgehender Skibetrieb bis 23.4.2017! Unsere Gondelbahn an der Talstation Hochzillertal/ Kaltenbach ist ab 07:30 Uhr in Betrieb. Lifte täglich geöffnet von 08:00 bis 16:00 Uhr! Folgen Sie uns auch auf unserer Facebook Seite für aktuelle Infos aus erster Hand!",
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  },
+  "hasPart": {
+    "@type":"CreativeWork",
+    "text":"Panorama-Karte Skigebiet Hochzillertal",
+    "image":"http://www.hochzillertal.com/wp-content/uploads/2016/06/Panorama_HZ1617.jpg"
+  },
+  "mentions":{
+    "@type":"Event",
+    "name":"Winzer Wedelcup 2017",
+    "description":"Vom endlosen Weiß der Piste, geht es zur Weinverkostung renommierter Winzer in beiden Hütten. Messen können sich die Weinkenner auch bei einem spannenden Skirennen um den Winzer-Cup. Edelste Tropfen, perfekte Pisten und mittendrin die weltbesten Skihütten!",
+    "url":"http://www.winzerwedelcup.at"
+  }
+}

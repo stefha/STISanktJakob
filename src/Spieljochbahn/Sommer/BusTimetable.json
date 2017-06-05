@@ -1,0 +1,7 @@
+{
+  "@context": "http://schema.org",
+  "@type":"TravelAction",
+  "name":"Shuttlebus Uderns - Fügen - Spieljoch - Panoramabahn Geols - Hochfügen",
+  "image":"http://www.spieljochbahn.at/wp-content/uploads/2017/04/spieljochbahn-busfahrplan.png",
+  "url":"http://www.spieljochbahn.at/wp-content/uploads/2017/04/Shuttlebus-Panorambahn-Geols-und-Hochfu%CC%88gen.pdf"
+}

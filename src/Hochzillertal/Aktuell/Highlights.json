@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Event",
+    "name":"Frühstück am Berg",
+    "offers":[
+      {
+        "@type":"Offer",
+        "name":"Kristallhütte: Premium Frühstück",
+        "url":"http://www.hochzillertal.com/ski/early-bird-premium-fruehstueck-am-berg/",
+        "image":"http://www.hochzillertal.com/wp-content/uploads/DSC01518.jpg"
+      },
+      {
+        "@type":"Offer",
+        "name":"Wedelhütte: Wedler's Deluxe Frühstück",
+        "url":"http://www.hochzillertal.com/ski/wedelhuette-wedlers-deluxe-fruehstueck/",
+        "image":"http://www.hochzillertal.com/wp-content/uploads/wedelhuette2.jpg"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Event",
+    "name":"Für Genießer",
+    "offers":[
+      {
+        "@type":"Offer",
+        "name":"Wedelhütte: Der neue Hochgenuss",
+        "url":"http://www.hochzillertal.com/ski/wedelhuette-der-neue-hochgenuss/",
+        "image":"http://www.hochzillertal.com/wp-content/uploads/wedelhuette.jpg"
+      },
+      {
+        "@type":"Offer",
+        "name":"Wedelhütte: Sunbed-Special",
+        "url":"http://www.hochzillertal.com/ski/wedelhuette-sunbed-special/",
+        "image":"http://www.hochzillertal.com/wp-content/uploads/wedelhuette-4.jpg"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Event",
+    "name":"Unsere exklusive VIP-Gondel",
+    "offers":[
+      {
+        "@type":"Offer",
+        "name":"VIP Gondel/Premium Early Bird für Zwei",
+        "url":"http://www.hochzillertal.com/ski/premium-early-bird-fuer-zwei/",
+        "image":"http://www.hochzillertal.com/wp-content/uploads/BWM-Linie.jpg"
+      },
+      {
+        "@type":"Offer",
+        "name":"VIP Gondel/Premium Wedel-Skitag für Zwei",
+        "url":"http://www.hochzillertal.com/ski/premium-wedel-skitag-fuer-zwei/",
+        "image":"http://www.hochzillertal.com/wp-content/uploads/20121208_145123.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog":{
+      "@type":"OfferCatalog",
+      "itemListElement":{
+        "@type":"Offer",
+        "name":"Einzelfahrten Ski Optimal",
+        "description": "Nur für die Fahrt mit der Einseilumlaufbahn! Nur für Fußgänger oder Langläufer: jeweils nur 1 x Berg- und Talfahrt pro Tag!",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-15"
+          },
+          "audience":{
+            "@type": "PeopleAudience",
+            "audienceType":"Erwachsene",
+            "requiredMinAge":"19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"21.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"47.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"87.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog":{
+      "@type":"OfferCatalog",
+      "itemListElement":{
+        "@type":"Offer",
+        "name":"Einzelfahrten Ski Optimal",
+        "description": "Nur für die Fahrt mit der Einseilumlaufbahn! Nur für Fußgänger oder Langläufer: jeweils nur 1 x Berg- und Talfahrt pro Tag!",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-15"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene mit Gästekarte",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"20.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"45.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"84.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog":{
+      "@type":"OfferCatalog",
+      "itemListElement":{
+        "@type":"Offer",
+        "name":"Einzelfahrten Ski Optimal",
+        "description": "Nur für die Fahrt mit der Einseilumlaufbahn! Nur für Fußgänger oder Langläufer: jeweils nur 1 x Berg- und Talfahrt pro Tag!",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-15"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"17.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"37.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"69.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog":{
+      "@type":"OfferCatalog",
+      "itemListElement":{
+        "@type":"Offer",
+        "name":"Einzelfahrten Ski Optimal",
+        "description": "Nur für die Fahrt mit der Einseilumlaufbahn! Nur für Fußgänger oder Langläufer: jeweils nur 1 x Berg- und Talfahrt pro Tag!",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "validThrough": "2018-04-15"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "14"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"9.50",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"1"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"21.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"3"
+            }
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"39.00",
+            "priceCurrency":"EUR",
+            "eligibleQuantity":{
+              "@type":"QuantitativeValue",
+              "unitText":"Berg/Talfahrt",
+              "value":"6"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

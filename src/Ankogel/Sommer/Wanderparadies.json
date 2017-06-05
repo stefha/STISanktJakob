@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type":"SportsActivityLocation",
+  "name": "Das Wanderparadies",
+  "event":{
+    "@type":"Event",
+    "name":"Sommersaison 2017",
+    "offers":{
+      "@type":"Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "opens": "08:30",
+          "closes": "16:30"
+        },
+        "hasOfferCatalog":{
+          "@type":"OfferCatalog",
+          "itemListElement":[
+            {
+              "@type":"Product",
+              "name":"Kärnten Card",
+              "description":"kostenlose Berg- und Talfahrt",
+              "url":"http://kaerntencard.at/"
+            },
+            {
+              "@type":"Product",
+              "name":"Glockner - Dolomiten Card",
+              "description":"Die Karte für Ihren Erlebnis- und Aktivurlaub Sommer 2016",
+              "url":"http://www.osttirol.com/osttirol-erleben/sommerurlaub-osttirol/osttirols-glockner-dolomiten-card.html"
+            }
+          ]
+        }
+      }
+    },
+    "startDate":"2017-06-25",
+    "endDate":"2017-09-24"
+  },
+  "description": "Kärntens traditionsreiche Sommersportregion in den Hohen Tauern",
+  "image": "http://www.ankogel-ski.at/wp-content/uploads/103_Ankogelsommer2.jpg",
+  "amenityFeature": [
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Talstation",
+      "value":"1287",
+      "unitCode":"MTR"
+    },
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Bergstation",
+      "description":"Elschesattel",
+      "value":"2650",
+      "unitCode":"MTR"
+    }
+  ]
+}

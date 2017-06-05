@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Hochgebirgsbahnen Ankogel",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mallnitz",
+      "postalCode": "A-9822",
+      "addressCountry": "Aurtria"
+    },
+    "contactPoint":{
+      "@type":"ContactPoint",
+      "email":"info@gletscher.co.at",
+      "telephone":"+43 (0) 4785 8110",
+      "faxNumber":"+ 43 (0) 4785 8110 10",
+      "contactType":"customer support"
+
+    },
+    "identifier":[
+      {
+        "@type":"PropertyValue",
+        "name":"Firmenbuchnummer",
+        "value":"19797p"
+      }
+    ],
+  "areaServed":[{
+      "@type":"AdministrativeArea",
+      "name":"Tourismus- und Freizeitwirtschaft"
+    }
+  ]
+}

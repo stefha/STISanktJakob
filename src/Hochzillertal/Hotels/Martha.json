@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Hotel",
+  "name": "Gästehaus Martha",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/start-winter-haus.jpg",
+  "description":"Erleben Sie Ihren Urlaub im „Gästehaus Martha“ in Fügen – Egal ob Skiurlaub im Winter oder Wanderurlaub im Sommer – wir sind ständig um Ihr Wohl bemüht.",
+  "url": "http://www.martha-zillertal.at"
+}

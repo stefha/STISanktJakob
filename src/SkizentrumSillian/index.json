@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Herzlich Willkommen",
+  "url":"http://www.hochzillertal.com/news/",
+  "image":"http://www.hochzillertal.com/wp-content/uploads/skiresort_b02_15_de-e1441017330225.jpg",
+  "description": "Ski al dente oder Dolomiten-Ski in Osttirol – wie Sie den Brettlspaß am Thurntaler, dem Skiberg im Hochpustertal, auch nennen: Grenzenloses Pistenvergnügen ist allemal garantiert. Denn diese Kombination von italienischer Lebenslust und österreichischem Service finden Sie nicht so schnell wieder.",
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "url":"http://www.hochzillertal.com/anreise-und-kontakt/"
+  },
+  "hasPart": {
+    "@type":"CreativeWork",
+    "text":"Panorama-Karte Skigebiet Hochzillertal",
+    "image":"http://www.hochzillertal.com/wp-content/uploads/2016/06/Panorama_HZ1617.jpg"
+  },
+  "mentions":{
+    "@type":"Event",
+    "name":"Winzer Wedelcup 2017",
+    "description":"Vom endlosen Weiß der Piste, geht es zur Weinverkostung renommierter Winzer in beiden Hütten. Messen können sich die Weinkenner auch bei einem spannenden Skirennen um den Winzer-Cup. Edelste Tropfen, perfekte Pisten und mittendrin die weltbesten Skihütten!",
+    "url":"www.winzerwedelcup.at"
+  }
+}

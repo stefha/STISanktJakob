@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name":"News",
+  "itemListElement":[
+    {
+      "@type":"Article",
+      "name":"(Deutsch) SCHULTZ GRUPPE stellt touristische Zukunft des Spieljochs sicher",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2016/08/spieljochbahn-schultz-pressemeldung-1024x683.jpg",
+      "description":"Nach einem einstimmigen Beschluss des Fügener Gemeinderates und der Vollversammlung des Tourismusverbands der Ersten Ferienregion im Zillertal ist der Weg nun frei für eine neue Ära des Fügener Spieljochs: Die Schultz Gruppe übernimmt das komplette Skigebiet und wird in den kommenden Monaten ein umfangreiches Investitionsprogramm für …",
+      "url":"http://www.spieljochbahn.at/en/schultz-gruppe-stellt-touristische-zukunft-des-spieljochs-sicher/"
+    },
+    {
+      "@type":"Article",
+      "name":"Barfussweg NEU",
+      "image":"http://www.spieljochbahn.at/wp-content/uploads/2015/05/barfussweg1.jpg",
+      "description":"Erfahren Sie die Natur einmal anders: Egal ob ein wärmender Rindenmulch, feine oder grobe Kiese. Ihre Sinne werden geweckt, Natur wird von Ihnen ganz neu erlebt. Auch für Kinder ist dieser Weg ein Erlebnis- und Abenteuerpfad. Daher: Schuhe und Strümpfe aus und gönnen Sie Ihren Füßen und sich …",
+      "url":"http://www.spieljochbahn.at/en/barfussweg-neu/"
+    },
+    {
+      "@type":"Article",
+      "name":"Paradies Spielteich-Spieljoch",
+      "video":{
+        "@type":"VideoObject",
+        "thumbnailUrl":"https://youtu.be/JC1s5u6Fcx8"
+      },
+      "description":"Spielteich mit Wasserspielen direkt bei der Bergstation der Spieljochbahn. Wer hat als Kind nicht gerne im Wasser bzw. im Meer gespielt? Wasserspiele gehören auch heute noch zu den beliebtesten Kinder- und Jugendspiele und nebenbei fördert Wasser die natürlichen Bewegungsabläufe des Körpers. Am Spieljoch können Kinder nach Herzenslust matschen und rumsausen. …",
+      "url":"http://www.spieljochbahn.at/en/kinderparadies-spielteich-spieljoch/"
+    }
+  ]
+}

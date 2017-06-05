@@ -1,0 +1,18 @@
+[{
+  "@context": "http://schema.org",
+  "@type":"CreativeWork",
+  "url":"http://www.ski-outdoor-shop.de/blog/detail/sCategory/73825/blogArticle/50",
+  "name":"TOP- Skitgebiet Österreich"
+},
+  {
+  "@context": "http://schema.org",
+  "@type":"CreativeWork",
+    "url":"http://www.skiresort.de/skigebiet/sillian-thurnthaler-hochpustertal/testbericht/",
+  "name":"TOP Pistenpräparierung 5von5 Sternen"
+},
+  {
+  "@type":"CreativeWork",
+  "name":"TOP Pistenpräparierung 5von5 Sternen",
+    "description":"Führendes Skigebiet bis 20km Pisten",
+    "url":"http://www.skiresort.de/skigebiet/sillian-thurnthaler-hochpustertal/testbericht/"
+}]

@@ -1,0 +1,90 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Event",
+    "name": "Top Ski Wochen",
+    "startDate":"2017-01-07",
+    "endDate": "2017-02-04",
+    "description": "7 Übernachtungen in der jeweiligen Kategorie, 6-Tages-Superskipass, 1x 2 Stunden Eintritt in die Erlebnistherme Zillertal (Schwimmbereich), 6x Mittagslunch im Skigebiet Hochzillertal",
+    "offers":[
+      {
+        "@type":"Offer",
+        "name":"Privatpension",
+        "description":"Übernachtung / Frühstück",
+        "priceSpecification":{
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"475.00",
+          "priceCurrency":"EUR"
+        }
+      },
+      {
+        "@type":"Offer",
+        "name":"Gasthöfe / Hotels ***",
+        "description":"mit Halbpensionk",
+        "priceSpecification":{
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"609.00",
+          "priceCurrency":"EUR"
+        }
+      },
+      {
+        "@type":"Offer",
+        "name":"Hotels ****",
+        "description":"mit Halbpensionk",
+        "priceSpecification":{
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"798.00",
+          "priceCurrency":"EUR"
+        }
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Event",
+    "name": "Top Ski Wochen",
+    "startDate":"2017-03-18",
+    "endDate": "2017-04-23",
+    "description": "7 Übernachtungen in der jeweiligen Kategorie, 6-Tages-Superskipass, 1x 2 Stunden Eintritt in die Erlebnistherme Zillertal (Schwimmbereich), 6x Mittagslunch im Skigebiet Hochzillertal",
+    "offers":[
+      {
+        "@type":"Offer",
+        "name":"Privatpension",
+        "description":"Übernachtung / Frühstück",
+        "priceSpecification":{
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"475.00",
+          "priceCurrency":"EUR"
+        }
+      },
+      {
+        "@type":"Offer",
+        "name":"Gasthöfe / Hotels ***",
+        "description":"mit Halbpensionk",
+        "priceSpecification":{
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"609.00",
+          "priceCurrency":"EUR"
+        }
+      },
+      {
+        "@type":"Offer",
+        "name":"Hotels ****",
+        "description":"mit Halbpensionk",
+        "priceSpecification":{
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"798.00",
+          "priceCurrency":"EUR"
+        }
+      }
+    ]
+  }
+
+]
+

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Wintersportschule Hochpustertal",
+    "description":"Das Team der Wintersportschule Hochpustertal bietet einen „Rundumservice“ im Bereich des Wintersportes und würde sich freuen, dich persönlich in unserer wunderschönen Region „WILLKOMMEN“ zu heissen: Gruppenkurse Ski Alpin (1 bis 5 Tage) 2-4 Std. pro Tag",
+    "email":"info@wintersportschule.at",
+    "telephone":"+ 43 – (0) 66 4 / 573 21 89",
+    "faxNumber":"+43 – (0) 48 43 / 51 51",
+    "url":"http://www.wintersportschule.at/",
+    "image":"http://wintersportschule-hochpustertal.com/wordpress/wp-content/uploads/2014/03/Gruppe2.jpg",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"9932",
+      "addressLocality":"Innervillgraten",
+      "streetAddress":"Innervillgraten 146"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"White Element Skischule Sillian",
+    "description":"Stürzt euch mit uns ins Winterabenteuer! Wir bestechen durch Kompetenz auf Schnee – Einem Motto das verpflichtet",
+    "url":"http://www.white-element.at/",
+    "email":"info@white-element.at",
+    "telephone":"+43 664 4668798",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"9920",
+      "addressLocality":"Sillian",
+      "streetAddress":"Sillian 49d"
+    }
+  }
+]
+
+
+
+
+
+

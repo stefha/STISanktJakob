@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Organization",
+  "name":"HPV Herbert Peitler Verkehrsbetriebe",
+  "address":{
+    "@type":"PostalAddress",
+    "postalCode":"9815",
+    "addressLocality":"Kolbnitz",
+    "streetAddress":"Zandlach 3"
+  },
+  "contactPoint":{
+    "@type":"ContactPoint",
+    "name":"SCHIBUS HOTLINE",
+    "telephone":"+43 (0) 664 12 78 579",
+    "email":"mobilitaet@hpv-moelltal.at",
+    "url":"http://www.hpv-moelltal.at",
+    "contactType":"customer support"
+  },
+  "memberOf":{
+    "@type":"Organization",
+    "name":"Kärnten Bus GmbH: Herbert Peitler Verkehrsbetriebe",
+    "address":{
+      "@type":"PostalAddress",
+      "postalCode":"9815",
+      "addressLocality":"Kolbnitz"
+    }
+  },
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "itemListElement":[
+      {
+        "@type":"TravelAction",
+        "name":"Schibus Rabisch - Ankogelbahn Talstation",
+        "url":"http://www.ankogel-ski.at/wp-content/uploads/skibus.gif"
+      },
+      {
+        "@type":"TravelAction",
+        "name":"Schibus  Ankogelbahn Talstation - Rabisch",
+        "url":"http://www.ankogel-ski.at/wp-content/uploads/skibus2.gif"
+      }
+    ]
+  }
+}

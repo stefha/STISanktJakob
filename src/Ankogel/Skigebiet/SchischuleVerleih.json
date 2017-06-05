@@ -1,0 +1,72 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Skischule Nallnitz",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/logo_skischule.png",
+    "email":"office@wolligger-sports.com",
+    "url":"http://www.wolligger-sports.com/skischule-frontpage",
+    "telephone":[
+      "+43 (0) 4784 322-0",
+      "+43 (0) 676 3366263"
+    ],
+    "faxNumber":"+43 (0) 4784 322-4",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"9822",
+      "addressLocality":"Mallnitz",
+      "streetAddress":"Nr.3"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Sport 2000 rent",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/icon-sport2000.png",
+    "url":"http://www.schischule-jamnig.at/",
+    "email":"office@schischule-jamnig.at",
+    "telephone":"+43 (0) 4784 8110",
+    "faxNumber":"+43 (0) 4784 8111",
+    "location":{
+      "@type":"PostalAddress",
+      "description":"Ortsmitte oder Ankogel-Talstation",
+      "addressCountry":"AT",
+      "postalCode":"9822",
+      "addressLocality":"Mallnitz"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"rent | fashion | bar Wolligger Sports",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/logo_wolligger.png",
+    "email":"office@wolligger-sports.com",
+    "url":"http://www.wolligger-sports.com/",
+    "telephone":[
+      "+43 (0) 4784 322-0",
+      " +43 (0) 676 3366263"
+    ],
+    "faxNumber":"+43 (0) 4784 322-4",
+    "location":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"9822",
+      "addressLocality":"Mallnitz",
+      "streetAddress":"Nr.3"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Bobo und die Kinderskischule",
+    "image":"http://www.ankogel-ski.at/wp-content/uploads/100_Ankogelbobo.jpg",
+    "description":"In der Talstation der Ankogelbahnen finden die Anfänger mit den zwei Köfeleliften das ideale Gelände, um die ersten Schwünge zu üben..."
+  }
+]
+
+
+
+
+
+

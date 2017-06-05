@@ -1,0 +1,748 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Wandertarife Sommer 2017",
+    "description": "Normaltarif",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMinAge":"6",
+        "requiredMaxAge":"18"
+      }
+    },
+    "priceSpecification":[
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Bergfahrt Bergstation (oder 2 Strecken)",
+        "unitCode":"IE",
+        "price":"9.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Berg- und Talfahrt Bergstation (4 Strecken)",
+        "unitCode":"IE",
+        "price":"13.50",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Bergfahrt bis Mittelstation (1 Strecke)",
+        "unitCode":"IE",
+        "price":"6.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Berg- und Talfahrt Mittelstation (2 Strecken)",
+        "unitCode":"IE",
+        "price":"9.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"3 Strecken",
+        "unitCode":"IE",
+        "price":"10.00",
+        "priceCurrency":"EUR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Wandertarife Sommer 2017",
+    "description": "Gästekarte",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMinAge":"6",
+        "requiredMaxAge":"18"
+      }
+    },
+    "priceSpecification":[
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Bergfahrt Bergstation (oder 2 Strecken)",
+        "unitCode":"IE",
+        "price":"8.50",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Berg- und Talfahrt Bergstation (4 Strecken)",
+        "unitCode":"IE",
+        "price":"12.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Bergfahrt bis Mittelstation (1 Strecke)",
+        "unitCode":"IE",
+        "price":"5.50",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Berg- und Talfahrt Mittelstation (2 Strecken)",
+        "unitCode":"IE",
+        "price":"8.50",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"3 Strecken",
+        "unitCode":"IE",
+        "price":"9.50",
+        "priceCurrency":"EUR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Wandertarife Sommer 2017",
+    "description": "Normaltarif",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification":[
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Bergfahrt Bergstation (oder 2 Strecken)",
+        "unitCode":"IE",
+        "price":"19.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Berg- und Talfahrt Bergstation (4 Strecken)",
+        "unitCode":"IE",
+        "price":"27.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Bergfahrt bis Mittelstation (1 Strecke)",
+        "unitCode":"IE",
+        "price":"12.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Berg- und Talfahrt Mittelstation (2 Strecken)",
+        "unitCode":"IE",
+        "price":"19.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"3 Strecken",
+        "unitCode":"IE",
+        "price":"21.00",
+        "priceCurrency":"EUR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Wandertarife Sommer 2017",
+    "description": "Gästekarte",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification":[
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Bergfahrt Bergstation (oder 2 Strecken)",
+        "unitCode":"IE",
+        "price":"18.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Berg- und Talfahrt Bergstation (4 Strecken)",
+        "unitCode":"IE",
+        "price":"24.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Bergfahrt bis Mittelstation (1 Strecke)",
+        "unitCode":"IE",
+        "price":"11.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"Berg- und Talfahrt Mittelstation (2 Strecken)",
+        "unitCode":"IE",
+        "price":"18.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"UnitPriceSpecification",
+        "name":"3 Strecken",
+        "unitCode":"IE",
+        "price":"20.00",
+        "priceCurrency":"EUR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Wandertarife Sommer 2017",
+    "description": "Normaltarif",
+    "itemOffered": {
+      "@type": "Service",
+      "name":"Berg- und Talfahrt bis Bergstation",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Familie"
+      }
+    },
+    "priceSpecification":[
+      {
+        "@type":"PriceSpecification",
+        "name":"Familie mit 1 Kind",
+        "price":"55.50",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"PriceSpecification",
+        "name":"Familie mit 2 Kindern",
+        "price":"60.50",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"PriceSpecification",
+        "name":"Familie mit 3 Kindern",
+        "price":"66.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"PriceSpecification",
+        "name":"Jedes weitere Kind",
+        "price":"6.50",
+        "priceCurrency":"EUR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Wandertarife Sommer 2017",
+    "description": "Gästekarte",
+    "itemOffered": {
+      "@type": "Service",
+      "name":"Berg- und Talfahrt bis Bergstation",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Familie"
+      }
+    },
+    "priceSpecification":[
+      {
+        "@type":"PriceSpecification",
+        "name":"Familie mit 1 Kind",
+        "price":"52.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"PriceSpecification",
+        "name":"Familie mit 2 Kindern",
+        "price":"56.50",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"PriceSpecification",
+        "name":"Familie mit 3 Kindern",
+        "price":"61.00",
+        "priceCurrency":"EUR"
+      },
+      {
+        "@type":"PriceSpecification",
+        "name":"Jedes weitere Kind",
+        "price":"6.50",
+        "priceCurrency":"EUR"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Normaltarif",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"51.00",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Gästekarte",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Erwachsene",
+        "requiredMinAge":"19"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"49.00",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Normaltarif",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMinAge":"6",
+        "requiredMaxAge":"18"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"25.50",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Gästekarte",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Kinder",
+        "requiredMinAge":"6",
+        "requiredMaxAge":"18"
+      }
+    },
+    "priceSpecification": {
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"24.50",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Normaltarif",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Familie mit 1 Kind"
+      }
+    },
+    "priceSpecification": {
+      "@type":"PriceSpecification",
+      "name":"Familie mit 1 Kind",
+      "price":"119.00",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Gästekarte",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Familie mit 1 Kind"
+      }
+    },
+    "priceSpecification": {
+      "@type":"PriceSpecification",
+      "name":"Familie mit 1 Kind",
+      "price":"115.50",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Normaltarif",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Familie mit 2 Kindern"
+      }
+    },
+    "priceSpecification": {
+      "@type":"PriceSpecification",
+      "name":"Familie mit 2 Kindern",
+      "price":"139.50",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Gästekarte",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ],
+      "audience":{
+        "@type": "PeopleAudience",
+        "audienceType":"Familie mit 2 Kindern"
+      }
+    },
+    "priceSpecification": {
+      "@type":"PriceSpecification",
+      "name":"Familie mit 2 Kindern",
+      "price":"135.50",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Normaltarif",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ]
+    },
+    "priceSpecification": {
+      "@type":"PriceSpecification",
+      "name":"Jedes weitere Kind",
+      "price":"0",
+      "priceCurrency":"EUR"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Offer",
+    "name": "Gipfel-Ticket 3x Berg- und Talfahrt",
+    "description": "Gästekarte",
+    "itemOffered": {
+      "@type": "Service",
+      "hoursAvailable": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "08:30",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "validFrom": "2017-06-25",
+          "validThrough": "2017-09-24",
+          "opens": "13:00",
+          "closes": "16:00"
+        }
+
+      ]
+    },
+    "priceSpecification": {
+      "@type":"PriceSpecification",
+      "name":"Jedes weitere Kind",
+      "price":"0",
+      "priceCurrency":"EUR"
+    }
+  }
+]

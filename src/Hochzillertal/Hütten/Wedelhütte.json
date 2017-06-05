@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Restaurant",
+  "name": "Wedelhütte",
+  "description": "Mitten im SKIGEBIET HOCHZILLERTAL – Traditioneller Stil, natürliche Materialien und edles Design vermitteln einen Charme der ganz besonderen Art, in ganz besonderer Lage! Leidenschaftlich gern begegnen wir der Herausforderung, den hohen Erwartungen unserer Gäste zu entsprechen. Unser Bestreben ist die Harmonie zwischen Nostalgie und Zeitgeist zu schaffen. Das Grundrezept Qualität, Natur und persönliches Engagement wird durch viel Liebe zum Detail ein pures Erlebnis für die Sinne.",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/Wedelh%C3%BCtte-mit-Schrift-und-Logo2.jpg",
+  "url": "www.wedelhuette.at"
+}

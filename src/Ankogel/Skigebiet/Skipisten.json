@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type":"SportsActivityLocation",
+  "image":"http://www.ankogel-ski.at/wp-content/uploads/ankogel-panorama-2016.jpg",
+  "name":"Ski-Pisten",
+  "amenityFeature":[
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Pisten gesamt",
+      "value":"12",
+      "unitText":"Pisten"
+    },
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Pisten leicht/blau",
+      "value":"3",
+      "unitText":"Pisten"
+    },
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Pisten mittel/rot",
+      "value":"4",
+      "unitText":"Pisten"
+    },
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Pisten schwer/schwarz",
+      "value":"5",
+      "unitText":"Pisten"
+    },
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Beschneite Pisten",
+      "value":"50",
+      "unitCode":"P1"
+    },
+    {
+      "@type":"LocationFeatureSpecification",
+      "name":"Längste Abfahrt",
+      "value":"1349",
+      "unitCode":"MTR"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+    "@type":"SkiResort",
+    "name":"Spieljochbahn Fügen",
+    "url": "http://www.spieljochbahn.at/",
+    "logo": "http://www.spieljochbahn.at/wp-content/uploads/2015/04/spieljochbahn_logo_neu.png",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Fügen",
+      "postalCode": "A-6263",
+      "addressCountry": "Aurtria",
+      "streetAddress":"Hochfügenerstr. 77"
+    },
+    "contactPoint":{
+      "@type":"ContactPoint",
+      "email":"info@spieljochbahn.at",
+      "telephone":"+43 5288 62991",
+      "faxNumber":"+43 5288 62991 – 16",
+      "contactType":"customer support"
+
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "47.338975 N",
+      "longitude": "11.843040 E"
+    },
+    "areaServed":{
+      "@type":"AdministrativeArea",
+      "name":"Tourismus- und Freizeitwirtschaft"
+    }
+}

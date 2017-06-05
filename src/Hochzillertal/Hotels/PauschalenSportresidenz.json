@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Hotel",
+  "name": "Sportresidenz Zillertal",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/srs.jpg",
+  "description":"Die Sportresidenz Zillertal****s am Areal des neuen Golfplatzes in Uderns ist eine kleine Luxuswelt für sich.",
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "itemListElement":[
+      {
+        "@type":"Offer",
+        "name":"Bergwinter",
+        "itemOffered":[
+          {
+            "@type":"Service",
+            "name":"7 ÜN inkl. Gourmet Halbpension"
+          },
+          {
+            "@type":"Service",
+            "name":"6 Tages Skipass (Zillertal Superskipass) pro Person"
+          },
+          {
+            "@type":"Service",
+            "name":"6 Tage Skiverleih pro Person"
+          },
+          {
+            "@type":"Service",
+            "name":"1 karibische Teilkörper Relaxmassage pro Person"
+          }
+        ],
+        "priceSpecification":{
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"1249.00",
+          "priceCurrency":"EUR",
+          "validThrough":"2016-12-26"
+        }
+      },
+      {
+        "@type":"Offer",
+        "name":"Ski Opening in der Sportresidenz",
+        "itemOffered":[
+          {
+            "@type":"Service",
+            "name":"3 ÜN inkl. Gourmet Halbpension"
+          },
+          {
+            "@type":"Service",
+            "name":"3 Tages Skipass (Zillertal Superskipass) pro Person"
+          },
+          {
+            "@type":"Service",
+            "name":"1 Schulter-, Nacken- & Kopfmassage pro Person"
+          }
+        ],
+        "priceSpecification":{
+          "@type":"UnitPriceSpecification",
+          "unitCode":"IE",
+          "price":"499.00",
+          "priceCurrency":"EUR",
+          "validThrough":"2016-12-19"
+        }
+      }
+    ]
+  }
+}

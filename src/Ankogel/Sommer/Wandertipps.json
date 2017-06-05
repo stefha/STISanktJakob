@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Website",
+  "name": "Wandertipps",
+  "about":[
+    {
+      "@type":"Article",
+      "name":"Wichtige Tipps",
+      "articleBody":[
+        "Nur fit in die Berge und nicht erst „fit durch die Berge“.",
+        "Keine Bergwanderung ohne sorgfältige Tourenplanung.",
+        "Für die geplante Tour die richtige Ausrüstung und nichts Unnötiges mitnehmen.",
+        "Geeignetes Schuhwerk ist unumgänglich! Nur mit Bergschuhen ins Gelände!",
+        "Informationen über die Tour und die Wetterverhältnisse einholen.",
+        "Alle zwei Stunden eine Zehnminutenrast einlegen.",
+        "Während der Tour ausgiebig trinken und essen.",
+        "Niemals den markierten Weg verlassen.",
+        "Bei Gefahr oder Wetterverschlechterung die Tour rechtzeitig abbrechen.",
+        "Eine Notfallsausrüstung (Erste-Hilfe-Box, Mobiltelefon und Taschenlampe) gehört in jeden Rucksack.",
+        "Im Notfall ruhig bleiben und die Bergrettung verständigen:",
+        "Alpines Notsignal, Euro Notruf: 112, Bergrettung 140."
+      ]
+    },
+    {
+      "@type":"Article",
+      "name":"Gute Planung",
+      "articleBody":"Schon vor dem Start kann man viel für die Sicherheit auf einer Wanderung bzw. Bergtour tun: Auf die gute Planung kommt es an. Die Auswahl einer Route muss sich immer nach der Kondition und Bergerfahrung des schwächsten Mitglieds einer Gruppe orientieren. Bei Bergtouren also unbedingt Erkundigungen über Schwierigkeitsgrad und Wegbeschaffenheit einholen! Wer ganz sicher gehen will, schließt sich am besten einer geführten Wandergruppe an. Das hat neben der gegebenen Sicherheit den Vorteil, daß die Bergwanderführer viel über Land und Leute zu erzählen wissen. Außerdem macht das Wandern mit einer Gruppe Gleichgesinnter oft noch mehr Spaß."
+    },
+    {
+      "@type":"Article",
+      "name":"Gute Ausrüstung",
+      "articleBody":"Die Ausrüstung muss immer den Verhältnissen angepasst sein. Landkarte sowie Sonnen- und Regenschutz gehören in jeden Rucksack. Das Wetter im Gebirge kann oft schnell umschlagen und für unliebsame Überraschungen sorgen. Gute Schuhe sind ohnedies Voraussetzung, und Teleskopstöcke schonen die Kniegelenke beim Gehen. Auch bei leichten Wanderungen nicht leichtsinnig sein und immer genügend zu essen und zu trinken mitnehmen, vor allem wenn Kinder dabei sind. Nicht vergessen: Bewegung in frischer Bergluft macht durstig und weckt den Appetit!"
+    }
+  ]
+}

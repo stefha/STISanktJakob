@@ -1,0 +1,17 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "SkiResort",
+  "name": "Hochpustertaler Bergbahnen Nfg. GmbH & Co KG",
+  "url": "http://www.hochpustertal-ski.at/impressum/",
+  "description":"Firmenbuchnummer: 139601x",
+  "telephone": " +43 (0)4873 5274",
+  "faxNumber": "+43 (0)4873 5274-22",
+  "email": "info@hochpustertal-ski.at",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sillian 49E",
+    "addressLocality": "Sillian",
+    "postalCode": "A-9920",
+    "addressCountry": "Austria"
+  }
+}

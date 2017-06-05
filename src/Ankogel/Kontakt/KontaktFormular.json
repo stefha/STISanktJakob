@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ContactPage",
+  "name":"Kontaktformular",
+  "significantLink":"http://www.ankogel-ski.at/anreise-kontakt/",
+  "publisher": {
+    "@type":"SkiResort",
+    "name":"Hochgebirgsbahnen Ankogel",
+    "url":"http://www.ankogel-ski.at/anreise-kontakt/"
+  }
+}

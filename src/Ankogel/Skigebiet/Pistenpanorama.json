@@ -1,0 +1,6 @@
+{
+  "@context": "http://schema.org",
+  "@type":"MediaObject",
+  "name":"Interaktives Pistenpanorama",
+  "thumbnailUrl":"http://www.ankogel-ski.at/das-skigebiet/panorama/"
+}

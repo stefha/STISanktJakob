@@ -1,0 +1,77 @@
+{
+  "@context": "http://schema.org",
+  "@type":"WebPage",
+  "name":"Freeride Paradies Ankogel",
+  "hasPart":[
+    {
+      "@type":"MediaObject",
+      "name":"Freeride Map - Hohe Tauern Select",
+      "tumbnailUrl":"https://youtu.be/vKaC0_NrtVE"
+    },
+    {
+      "@type":"MediaObject",
+      "name":"Freeride Map - Hohe Tauern",
+      "tumbnailUrl":"http://www.ankogel-ski.at/wp-content/uploads/FRM_Hohe_Tauern.pdf"
+    }
+  ],
+  "about":[
+    {
+      "@type":"SportsActivityLocation",
+      "name":"Variante Ebeneck-Scharte-Böckstein via Knallkar",
+      "description":" Mit der Ankogelbahn 2 zum höchsten Punkt des Skigebiets. Beim Ausgang der Bergstation nach links, dort 10 Höhenmeter aufsteigen. Ski/Snowboard anschnallen und hoch unter den Felswänden nach Westen queren...",
+      "amenityFeature":[
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Schwierigkeit",
+          "value":"leicht-mittel"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Exposition",
+          "value":"Nord"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Höhenmeter Abfahrt",
+          "value":"1100",
+          "unitCode":"MTR"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Strecke",
+          "value":"2700",
+          "unitCode":"MTR"
+        }
+      ]
+    },
+    {
+      "@type":"SportsActivityLocation",
+      "name":"Variante Vordere Lugge",
+      "description":"Mit der Ankogelbahn 2 zum höchsten Punkt des Skigebiets. Beim Ausgang der Bergstation nach links, dort 10 Höhenmeter aufsteigen. Ski/Snowboard anschnallen und hoch unter den Felswänden nach Westen queren...",
+      "amenityFeature":[
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Schwierigkeit",
+          "value":"leicht"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Exposition",
+          "value":"Süd"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Höhenmeter Abfahrt",
+          "value":"1000",
+          "unitCode":"MTR"
+        },
+        {
+          "@type":"LocationFeatureSpecification",
+          "name":"Strecke",
+          "value":"3600",
+          "unitCode":"MTR"
+        }
+      ]
+    }
+  ]
+}

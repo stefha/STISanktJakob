@@ -1,0 +1,360 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog":{
+      "@type":"OfferCatalog",
+      "itemListElement":{
+        "@type":"Offer",
+        "name":"Tageskarten Ski Optimal",
+        "description":"SKI-OPTIMAL Hochfügen – Hochzillertal  2017 / 2018 ( exkl. Nachtskilauf )",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "07:30",
+            "closes": "16:00",
+            "validFrom": "2017-12-02",
+            "validThrough": "2018-04-15",
+            "description": "Termin- und Tarifänderungen vorbehalten!"
+          },
+          "audience":{
+            "@type": "PeopleAudience",
+            "audienceType":"Erwachsene",
+            "requiredMinAge":"19"
+          }
+        },
+        "priceSpecification":[
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"52.50",
+            "priceCurrency":"EUR",
+            "validFrom":"T07:30"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"47.00",
+            "priceCurrency":"EUR",
+            "validFrom":"T10:50"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"38.00",
+            "priceCurrency":"EUR",
+            "validFrom":"T11:50"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"34.00",
+            "priceCurrency":"EUR",
+            "validFrom":"T12:50"
+          },
+          {
+            "@type":"UnitPriceSpecification",
+            "unitCode":"IE",
+            "price":"26.50",
+            "priceCurrency":"EUR",
+            "validFrom":"T13:50"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Tageskarten Ski Optimal",
+        "description": "SKI-OPTIMAL Hochfügen – Hochzillertal  2017 / 2018 ( exkl. Nachtskilauf )",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "07:30",
+            "closes": "16:00",
+            "validFrom": "2017-12-02",
+            "validThrough": "2018-04-15",
+            "description": "Termin- und Tarifänderungen vorbehalten!"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Erwachsene mit Gästekarte",
+            "requiredMinAge": "19"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "51.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "46.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "37.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "33.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "25.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Tageskarten Ski Optimal",
+        "description": "SKI-OPTIMAL Hochfügen – Hochzillertal  2017 / 2018 ( exkl. Nachtskilauf )",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "07:30",
+            "closes": "16:00",
+            "validFrom": "2017-12-02",
+            "validThrough": "2018-04-15",
+            "description": "Termin- und Tarifänderungen vorbehalten!"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "42.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "37.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "30.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "27.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Tageskarten Ski Optimal",
+        "description": "SKI-OPTIMAL Hochfügen – Hochzillertal  2017 / 2018 ( exkl. Nachtskilauf )",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "07:30",
+            "closes": "16:00",
+            "validFrom": "2017-12-02",
+            "validThrough": "2018-04-15",
+            "description": "Termin- und Tarifänderungen vorbehalten!"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Jugend",
+            "requiredMinAge": "15",
+            "requiredMaxAge": "18"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "42.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "37.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "30.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "27.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"Organization",
+    "name":"Ski-optimal.at Hochzillertal/Kaltenbach",
+    "contactPoint":{
+      "email":"info@hochzillertal.com",
+      "telephone":" +43 / 5283 / 2800",
+      "contactType":"customer support"
+    },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "itemListElement": {
+        "@type": "Offer",
+        "name": "Tageskarten Ski Optimal",
+        "description": "SKI-OPTIMAL Hochfügen – Hochzillertal  2017 / 2018 ( exkl. Nachtskilauf )",
+        "itemOffered": {
+          "@type": "Service",
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "07:30",
+            "closes": "16:00",
+            "validFrom": "2017-12-02",
+            "validThrough": "2018-04-15",
+            "description": "Termin- und Tarifänderungen vorbehalten!"
+          },
+          "audience": {
+            "@type": "PeopleAudience",
+            "audienceType": "Kinder",
+            "requiredMinAge": "6",
+            "requiredMaxAge": "14"
+          }
+        },
+        "priceSpecification": [
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "23.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T07:30"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "21.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T10:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "17.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T11:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "15.50",
+            "priceCurrency": "EUR",
+            "validFrom": "T12:50"
+          },
+          {
+            "@type": "UnitPriceSpecification",
+            "unitCode": "IE",
+            "price": "12.00",
+            "priceCurrency": "EUR",
+            "validFrom": "T13:50"
+          }
+        ]
+      }
+    }
+  }
+]

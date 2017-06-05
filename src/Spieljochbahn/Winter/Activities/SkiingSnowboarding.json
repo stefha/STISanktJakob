@@ -1,0 +1,90 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Sport Unterlercher",
+    "url":"http://www.sport-unterlercher.at/",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "telephone": "+43 5288 6767 560"
+    },
+    "address":{
+      "@type":"PostalAddress",
+      "description":"oberhalb der Spieljochbahn/Talstation",
+      "addressCountry":"AT",
+      "postalCode":"6263",
+      "addressLocality":"Fügen",
+      "streetAddress":"Hochfügenerstraße 88"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Sport Kostenzer KG",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "telephone": "+43 5288 63385",
+      "faxNumber":"+43 5288 63385 83",
+      "email":"skiinfo@hochfuegen.com"
+    },
+    "address":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6263",
+      "addressLocality":"Fügen",
+      "streetAddress":"Hochfügenerstrasse 65"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "SKISCHULE AKTIV",
+    "url":"http://www.schischule-aktiv-fuegen.at/",
+    "employee":{
+      "@type":"Person",
+      "name":"Fritz Hirner"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "telephone": "+43 5288 63875",
+      "faxNumber":"+43 5288 62133",
+      "email":"schischule-aktiv@aon.at"
+    },
+    "address":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6263",
+      "addressLocality":"Fügen",
+      "streetAddress":"Pankrazbergstraße 1"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "skiCHECK Fügen/Hochfügen",
+    "description":"Tiroler Skischule und Skiverleih",
+    "url":"http://www.skicheck.at/",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "telephone": "+43 660 1411820",
+      "email":"info@skicheck.at"
+    },
+    "address":{
+      "@type":"PostalAddress",
+      "addressCountry":"AT",
+      "postalCode":"6263",
+      "addressLocality":"Fügen",
+      "streetAddress":"Dorfplatz 1"
+    }
+  }
+]
+
+
+
+
+
+

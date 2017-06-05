@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Linie Rot",
+    "description":"Ski und Ortsbus FÜGEN - Spieljoch/Hochfügen",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus1.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Linie Grün",
+    "description":"Ski und Ortsbus UDERNS - KAPFING - FÜGEN",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus2.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "description":"Ski und Ortsbus FÜGENBERG - Spieljoch/Hochfügen",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus4.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Linie Grau",
+    "description":"Ski und Ortsbus FÜGEN - Panoramabahn Geols - Hochfügen",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus3.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "description":"Ski und Ortsbus HART - FÜGEN - Spieljoch/Hochfügen",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus5.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Skibus ASCHAU",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus6.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Züge der Zillertalbahn",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus7.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Skibus RIED",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus8.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Skibus KALTENBACH",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus9.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Skibus STRASS",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus10.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Skibus BRUCK/HART",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus11-800x379.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Skibus STUMM",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus12-800x464.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Shuttle Fügen",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus13-731x800.gif"
+  }
+]

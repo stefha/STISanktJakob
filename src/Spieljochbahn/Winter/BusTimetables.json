@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Rote Linie",
+    "description":"Ski und Ortsbus FÜGEN",
+    "url":"http://www.spieljochbahn.at/wp-content/uploads/2016/10/Linie-Ortsbus-Fu%CC%88gen.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Grüne Linie",
+    "description":"Ski und Ortsbus UDERNS",
+    "url":"http://www.spieljochbahn.at/wp-content/uploads/2017/01/Linie-Uderns-Kapfing.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Graue Linie",
+    "description":"Skibus Spieljoch-Hochfügen",
+    "url":"http://www.spieljochbahn.at/wp-content/uploads/2016/12/Linie-Hochfu%CC%88gen1.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Blaue Linie",
+    "description":"Ski und Ortsbus HART",
+    "url":"http://www.spieljochbahn.at/wp-content/uploads/2016/10/Linie-Hart.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Rote Linie",
+    "description":"Ski und Ortsbus FÜGENBERG",
+    "url":"http://www.spieljochbahn.at/wp-content/uploads/2016/10/Linie-Fu%CC%88genberg.pdf"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Skibus ASCHAU",
+    "url":"http://www.hochzillertal.com/wp-content/uploads/2016/10/skibus6.gif"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"TravelAction",
+    "name":"Shuttle",
+    "description":"Fügen-Kaltenbach",
+    "url":"http://www.spieljochbahn.at/wp-content/uploads/2016/12/Shuttle-Fu%CC%88gen-Kaltenbach.pdf"
+  }
+]

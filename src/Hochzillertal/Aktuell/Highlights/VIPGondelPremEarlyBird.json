@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Event",
+  "name": "VIP Gondel/Premium Early Bird für Zwei",
+  "description": "Mit der schwebenden BMW 7er Limousine zum perfekten Skigenuss.",
+  "offers":{
+    "@type":"Offer",
+    "itemOffered":{
+      "@type":"Service",
+      "description":"Exklusiver Parkplatz, Portierservice mit Abholung vom Parkplatz, Sondereingang zur Gondel, Champagner Empfang, 2 x 1 Tages-Skipass, Bergfahrt mit der Weltneuheit „BMW individual for LEITNER“ Gondel, Frühstücksbrunch auf der Kristallhütte.",
+      "hoursAvailable":{
+        "@type":"OpeningHoursSpecification",
+        "opens":"08:00",
+        "closes":"08:30",
+        "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
+      }
+    },
+    "priceSpecification":{
+      "@type":"PriceSpecification",
+      "eligibleQuantity":{
+        "@type": "QuantitativeValue",
+        "value":"2"
+      },
+      "price":"155",
+      "priceCurrency":"EUR"
+    }
+  }
+}
+

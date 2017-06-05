@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type":"ChildCare",
+  "name":"Zwergerl Club",
+  "address":"Bergstation Hochzillertal",
+  "openingHoursSpecification":{
+    "@type":"OpeningHoursSpecification",
+    "validFrom":"2016-12-17",
+    "validThrough":"2017-04-17",
+    "opens":"09:00",
+    "closes":"16:00"
+  },
+  "contactPoint":{
+    "@type":"ContactPoint",
+    "telephone":"+43 5283 28745",
+    "description":"Unbedingt 1 Tag vorher im Zwergerl Club anrufen",
+    "contactType":"customer support"
+  },
+  "image":"http://www.hochzillertal.com/wp-content/uploads/JOE0832_A.jpg",
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "itemListElement":[
+      {
+        "@type":"PriceSpecification",
+        "price":7.00,
+        "priceCurrency":"EUR",
+        "description":"jede angefangene Stunde"
+      },
+      {
+        "@type":"PriceSpecification",
+        "price":4.00,
+        "priceCurrency":"EUR",
+        "description":"Mittagessen"
+      },
+      {
+        "@type":"PriceSpecification",
+        "price":23.00,
+        "priceCurrency":"EUR",
+        "description":"1/2 Tag excl. Mittagessen",
+        "validFrom":"09:00",
+        "validThrough":"13:00"
+      },
+      {
+        "@type":"PriceSpecification",
+        "price":23.00,
+        "priceCurrency":"EUR",
+        "description":"1/2 Tag excl. Mittagessen",
+        "validFrom":"12:00",
+        "validThrough":"16:00"
+      },
+      {
+        "@type":"PriceSpecification",
+        "price":33.00,
+        "priceCurrency":"EUR",
+        "description":"1 Tag incl. Mittagessen",
+        "validFrom":"09:00",
+        "validThrough":"16:00"
+      },
+      {
+        "@type":"PriceSpecification",
+        "price":30.00,
+        "priceCurrency":"EUR",
+        "description":"jeder weitere Tag"
+      }
+    ]
+  }
+
+}

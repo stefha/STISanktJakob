@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Hotel",
+  "name": "Sportresidenz Zillertal",
+  "image": "http://www.hochzillertal.com/wp-content/uploads/srs.jpg",
+  "description":"Die Sportresidenz Zillertal****s am Areal des neuen Golfplatzes in Uderns ist eine kleine Luxuswelt für sich.",
+  "hasOfferCatalog":{
+    "@type":"OfferCatalog",
+    "itemListElement":[
+      {
+        "@type":"Offer",
+        "name":"Bergwinter",
+        "url":"http://www.hochzillertal.com/ski/bergwinter/"
+      },
+      {
+        "@type":"Offer",
+        "name":"Ski Opening in der Sportresidenz",
+        "url":"http://www.hochzillertal.com/ski/ski-opening-in-der-sportresidenz/"
+      }
+    ]
+  }
+}

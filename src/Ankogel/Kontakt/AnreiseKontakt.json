@@ -1,0 +1,60 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "SkiResort",
+  "name": "Hochgebirgsbahnen Ankogel",
+  "url": "http://www.ankogel-ski.at",
+  "logo": "http://www.ankogel-ski.at/wp-content/uploads/ankogellogo.gif",
+  "telephone": "+43 4784 632",
+  "email": "info@ankogel-ski.at",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Mallnitz",
+    "postalCode": "A-9822",
+    "addressCountry": "Aurtria"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.027632 N",
+    "longitude": "13.194700 E"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type":"OpeningHoursSpecification",
+      "name":"Winter 2017/18",
+      "opens":"8:30:00",
+      "closes":"16:30:00",
+      "dayOfWeek":
+      [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "validTrough":"2018-04-02",
+      "validFrom":"2017-12-16"
+    },
+    {
+      "@type":"OpeningHoursSpecification",
+      "name":"Sommer 2017",
+      "description":"Geschlossen nur bei Schlechtwetter",
+      "validTrough":"2017-09-24",
+      "validFrom":"2017-06-25"
+
+    }
+  ],
+  "additionalProperty":[
+    {
+      "@type":"PropertyValue",
+      "name":"Directions Car",
+      "value":"Sie erreichen uns über die Tauernautobahn A 10, Autobahnknoten Spittal/Millstätter See – Ausfahrt Lienz – Lendorf, weiter über die Drautalbundesstraße über Möllbrücke – Obervellach – MALLNITZ (Ankogel). Ca. 38 km / 40 Minuten ab der Autobahnabfahrt."
+    },
+    {
+    "@type":"PropertyValue",
+    "name":"Directions Car",
+    "value":"Von München kommend über Rosenheim – Kufstein – Kitzbühel – Paß Thurn – Felbertauernpaß – Lienz über den Iselsberg ins Mölltal nach Winklern, von dort rechts abbiegen nach Stall bis Außerfragant – Flattach – Obervellach – MALLNITZ.Ca. 45 Minuten ab Lienz."
+    }
+  ]
+}

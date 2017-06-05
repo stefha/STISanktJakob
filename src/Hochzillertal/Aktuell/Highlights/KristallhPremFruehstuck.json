@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type":"Event",
+  "name": "Kristallhütte: Premium Frühstück",
+  "description": "Premiumfrühstück auf der Kristall- oder Wedelhütte",
+  "offers":{
+    "@type":"Offer",
+    "itemOffered":{
+      "@type":"Service",
+      "hoursAvailable":{
+        "@type":"OpeningHoursSpecification",
+        "opens":"07:30",
+        "dayOfWeek":"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
+      }
+    },
+    "priceSpecification":{
+      "@type":"UnitPriceSpecification",
+      "unitCode":"IE",
+      "price":"16.50",
+      "priceCurrency":"EUR"
+    }
+  }
+}

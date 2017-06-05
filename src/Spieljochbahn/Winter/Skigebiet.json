@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"SPIELJOCHBAHN",
+    "openingHoursSpecification":{
+      "@type":"OpeningHoursSpecification",
+      "validThrough":"2017-12-22",
+      "validFrom":"2018-04-08",
+      "opens":"8:30",
+      "closes":"16:30"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Panoramabahn",
+    "openingHoursSpecification":{
+      "@type":"OpeningHoursSpecification",
+      "validThrough":"2017-12-22",
+      "validFrom":"2018-04-08",
+      "opens":"9:00",
+      "closes":"16:00"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"LocalBusiness",
+    "name":"Tallift (Dorflift)",
+    "openingHoursSpecification":{
+      "@type":"OpeningHoursSpecification",
+      "validThrough":"2017-12-22",
+      "validFrom":"2018-04-08",
+      "opens":"9:30",
+      "closes":"16:00"
+    }
+  }
+]
+

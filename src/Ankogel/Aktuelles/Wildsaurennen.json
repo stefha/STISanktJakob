@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type":"VideoObject",
+  "name":"Wildsaurennen am Ankogel",
+  "thumbnail":"https://youtu.be/jeO5NiyE5qs",
+  "contentLocation":{
+    "@type":"Place",
+    "name":"Ankogel"
+  },
+  "dateCreated":"2016-03-28"
+}

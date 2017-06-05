@@ -1,0 +1,42 @@
+[{
+  "@context": "http://schema.org",
+  "@type":"CivicStructure",
+  "name":"Brunnalm Gondelbahn",
+  "description":"6 EUB Gondelbahn; 2.400 Pers. / Std.; Länge: 1.600 m;  Höhe Berg: 2.050 m; Höhe Tal: 1.400 m"
+},
+  {
+    "@context": "http://schema.org",
+    "@type":"CivicStructure",
+    "name":"Weißspitzbahn",
+    "description":"6er Sesselbahn; 2.400 Pers. / Std.;Länge: 1.784 m"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"CivicStructure",
+    "name":"Mooserberg",
+    "description":"3er Sesselbahn; 1.965 Pers. / Std; Länge: 1148 m"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"CivicStructure",
+    "name":"Almspitzlift",
+    "description":"Schlepplift; 1.390 Pers. / Std.; Länge: 830 m"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"CivicStructure",
+    "name":"Feistritzlift",
+    "description":"Schlepplift; 930 Pers. / Std.; Länge: 723 m"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type":"CivicStructure",
+    "name":"St. Leonhardlift",
+    "description":"Schlepplift; 870 Pers. / Std.; Länge: 680 m"
+  },
+  {
+  "@context": "http://schema.org",
+  "@type":"CivicStructure",
+  "name":"Übungslift",
+  "description":"Tellerlift; 500 Pers. / Std.; Länge: 150 m"
+}]

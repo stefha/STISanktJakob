@@ -1,0 +1,5 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ContactPage",
+  "name":"Buchungsanfrage"
+}

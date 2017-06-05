@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Offer",
+  "name": "Wifi-Hotspots",
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Hochzillertal / Kaltenbach",
+      "description": "Kristallhütte, Wedelhütte, Platzlalm, Firnhütte, Bergrestaurant, Marendalm, Sport Stock, sChic Bar direkt an der Talstation Kaltenbach (auf Anfrage)"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "name": "Hochfügen",
+      "description": "Berghotel, Almhof, Hotel Lamark, Zirbenhof, Montana Alm, Aar-Wirt, Panorama/Kristallbar, Restaurant: 8er-Alm, Gondelbahn: 8er Jet (Talstation & Bergstation)"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Place",
+      "name": "Spieljochbahn / Fügen",
+      "description": "Kohleralmhof Mittelstation, Jausenstation Sonnberg, Restaurant Bergstation, Suntime, Jausenstation Geolsalm – ab Sommer 2017"
+    }
+  ]
+}
