@@ -1,14 +1,14 @@
 [
   {
     "@context": "http://www.schema.org",
-    "@type":"SpreadsheatDigitalDocument",
+    "@type":"SpreadsheetDigitalDocument",
     "image":"http://www.stjakob-ski.at/wp-content/bus.gif",
     "name":"Staller Sattel – Maria Hilf – St. Jakob – Skizentrum St. Jakob",
     "description":"Fahrplan gültig vom 20.12.2015 – 01.04.2016; Legende: W = an Werktagen; S = an Sonn und Feiertagen ",
     "url":"http://www.stjakob-ski.at/wp-content/bus_1.gif"
   },
   {
-    "@type":"SpreadsheatDigitalDocument",
+    "@type":"SpreadsheetDigitalDocument",
     "name":"Hopfgarten – St. Veit – Bruggen – Feistritz – Skizentrum St. Jakob",
     "description":"Fahrplan gültig vom 20.12.2015 – 01.04.2016; Legende: W = an Werktagen; S = an Sonn und Feiertagen ",
     "url":"http://www.stjakob-ski.at/wp-content/bus_2.gif"
